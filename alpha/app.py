@@ -417,7 +417,7 @@ NOTEBOOK_CONTENT = {
     'drafting': (
         "📋 Building Your Roster",
         "You're building a 15-man roster — 9 starters and 6 on the bench. "
-        "Every player's results are drawn from their real MLB game today "
+        "Every player's results are drawn from their real MLB game today. "
         "If your guy went 3-for-4 with a double in "
         "that game, that's exactly what he brings to your lineup.\n\n"
         "Your bench matters. When a starter's real-life game runs out of "
