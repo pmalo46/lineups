@@ -489,8 +489,8 @@ def run_two_team_simulation(away_selected, home_selected, plays_df, verbose=Fals
                     if ph_queue:
                         sub = ph_queue.popleft()
                         game.record(
-                            f"{game.team_label(team_key)} | Subbing in "
-                            f"{sub['name']} for {player_info['name']} at {pos}."
+                            f"{game.team_label(team_key)} | Substituting in pinch hitter "
+                            f"{sub['name']} for {player_info['name']}."
                         )
                         player_info = sub
                         pid = str(player_info['id'])
