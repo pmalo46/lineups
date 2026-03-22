@@ -6,6 +6,7 @@ Run with:  streamlit run app.py
 """
 
 import streamlit as st
+from streamlit_sortables import sort_items
 from data_loader import load_data
 from engine import (
     empty_team_template,
@@ -68,40 +69,58 @@ def render_team_panel(label, roster_key, lock_key, other_roster_key):
 
     st.subheader(f"{'🔵' if label == 'Away' else '🔴'} {label} Team")
 
-    # ---- Starter selection ------------------------------------------------
+    # ---- Starter selection (diamond layout) ---------------------------------
     st.markdown("**Starters**")
-    of_count = 0
-    starter_picks = {}  # (position_label) -> selected name
+    starter_picks = {}
 
-    for pos in STARTER_POSITIONS:
-        if pos == 'OF':
-            of_count += 1
-            display_label = f"OF {of_count}"
-        else:
-            display_label = pos
-
+    def _pos_select(display_label, pos, of_idx=None):
+        """Render a selectbox for one position and record the pick."""
         options = NON_PITCHERS if pos == 'DH' else PLAYERS_BY_POS.get(pos, NON_PITCHERS)
-        key = f"{label}_{display_label}"
-
-        # Determine current value if roster is already filled
         current = None
-        if pos == 'DH' and roster['DH'].get('name'):
-            current = roster['DH']['name']
-        elif pos == 'OF' and roster['OF'][of_count - 1].get('name'):
-            current = roster['OF'][of_count - 1]['name']
-        elif pos not in ('OF', 'DH') and roster[pos].get('name'):
-            current = roster[pos]['name']
-
-        idx = 0
+        if pos == 'OF' and of_idx is not None:
+            current = roster['OF'][of_idx].get('name') or None
+        elif pos in roster and isinstance(roster[pos], dict):
+            current = roster[pos].get('name') or None
         full_opts = ['— Select —'] + list(options)
-        if current and current in full_opts:
-            idx = full_opts.index(current)
-
+        idx = full_opts.index(current) if current and current in full_opts else 0
         pick = st.selectbox(
             display_label, full_opts, index=idx,
-            key=key, disabled=is_locked,
+            key=f"{label}_{display_label}", disabled=is_locked,
         )
         starter_picks[display_label] = pick
+
+    # Row 1: Outfield (LF / CF / RF)
+    of1, of2, of3 = st.columns(3)
+    with of1:
+        _pos_select("OF 1", "OF", of_idx=0)
+    with of2:
+        _pos_select("OF 2", "OF", of_idx=1)
+    with of3:
+        _pos_select("OF 3", "OF", of_idx=2)
+
+    # Row 2: SS / 2B
+    _, ss_col, _, tb_col, _ = st.columns([1, 2, 1, 2, 1])
+    with ss_col:
+        _pos_select("SS", "SS")
+    with tb_col:
+        _pos_select("2B", "2B")
+
+    # Row 3: 3B / 1B
+    tb3_col, _, fb_col = st.columns([2, 3, 2])
+    with tb3_col:
+        _pos_select("3B", "3B")
+    with fb_col:
+        _pos_select("1B", "1B")
+
+    # Row 4: Catcher
+    _, c_col, _ = st.columns([2, 3, 2])
+    with c_col:
+        _pos_select("C", "C")
+
+    # Row 5: DH
+    _, dh_col, _ = st.columns([2, 3, 2])
+    with dh_col:
+        _pos_select("DH", "DH")
 
     # ---- Bench selection --------------------------------------------------
     st.markdown("**Bench (PH1–PH6)**")
@@ -118,32 +137,65 @@ def render_team_panel(label, roster_key, lock_key, other_roster_key):
         bench_picks.append(pick)
 
     # ---- Batting order (only after lock) ----------------------------------
-    batting_order = list(range(1, 10))  # default
     if is_locked:
         st.markdown("---")
-        st.markdown("**Batting Order (1-9)**")
+        st.markdown("**Batting Order (drag to reorder)**")
         starter_names = _get_starter_names(roster)
-        order_picks = []
-        for slot in range(1, 10):
-            key = f"{label}_order_{slot}"
-            # try to respect existing slot assignments
-            current_for_slot = None
+
+        # Build initial order: respect existing slot assignments, fallback to roster order
+        existing = [None] * 9
+        unassigned = []
+        for name in starter_names:
+            slot = None
             for p in _all_starters(roster):
-                if p.get('lineup_slot') == slot:
-                    current_for_slot = p['name']
+                if p.get('name') == name and p.get('lineup_slot'):
+                    slot = p['lineup_slot']
                     break
-            opts = ['— Select —'] + starter_names
-            idx = opts.index(current_for_slot) if current_for_slot and current_for_slot in opts else 0
-            pick = st.selectbox(f"#{slot}", opts, index=idx, key=key)
-            order_picks.append(pick)
+            if slot and 1 <= slot <= 9:
+                existing[slot - 1] = name
+            else:
+                unassigned.append(name)
+        # Fill empty slots with unassigned players
+        for i in range(9):
+            if existing[i] is None and unassigned:
+                existing[i] = unassigned.pop(0)
+        initial_order = [n for n in existing if n is not None]
+
+        team_color = "#1e3a5f" if label == "Away" else "#5f1e1e"
+        team_border = "#3b82f6" if label == "Away" else "#ef4444"
+        team_hover = "#2b5a8f" if label == "Away" else "#8f2b2b"
+        sortable_style = f"""
+            .sortable-item {{
+                background-color: {team_color};
+                color: white;
+                padding: 8px 12px;
+                margin: 4px 0;
+                border-radius: 6px;
+                border-left: 4px solid {team_border};
+                cursor: grab;
+            }}
+            .sortable-item:hover {{
+                background-color: {team_hover};
+                border-left-color: {team_border};
+            }}
+        """
+
+        sorted_order = sort_items(
+            initial_order,
+            direction="vertical",
+            key=f"{label}_batting_order",
+            custom_style=sortable_style,
+        )
+
+        # Show numbered order for clarity
+        for i, name in enumerate(sorted_order, 1):
+            st.caption(f"#{i}  {name}")
 
         if st.button(f"✅ Lock {label} Batting Order", key=f"lock_order_{label}"):
-            if '— Select —' in order_picks:
-                st.error("Assign all 9 batting order slots.")
-            elif len(set(order_picks)) != 9:
-                st.error("Each player must appear exactly once in the order.")
+            if len(sorted_order) != 9:
+                st.error("All 9 starters must be in the batting order.")
             else:
-                _apply_batting_order(roster, order_picks)
+                _apply_batting_order(roster, sorted_order)
                 st.success(f"{label} batting order locked!")
                 st.rerun()
 
