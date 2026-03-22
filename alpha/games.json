@@ -1,0 +1,287 @@
+[
+  {
+    "gameID": "20250415_OAK@CHW",
+    "gameType": "REGULAR_SEASON",
+    "away": "OAK",
+    "gameTime": "7:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "6",
+    "gameTime_epoch": "1744760400.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "20",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "CHW"
+  },
+  {
+    "gameID": "20250415_ARI@MIA",
+    "gameType": "REGULAR_SEASON",
+    "away": "ARI",
+    "gameTime": "6:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "15",
+    "gameTime_epoch": "1744756800.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "1",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "MIA"
+  },
+  {
+    "gameID": "20250415_ATL@TOR",
+    "gameType": "REGULAR_SEASON",
+    "away": "ATL",
+    "gameTime": "7:07p",
+    "gameDate": "20250415",
+    "teamIDHome": "29",
+    "gameTime_epoch": "1744758420.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "2",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "TOR"
+  },
+  {
+    "gameID": "20250415_CHC@SD",
+    "gameType": "REGULAR_SEASON",
+    "away": "CHC",
+    "gameTime": "9:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "23",
+    "gameTime_epoch": "1744767600.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "5",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "SD"
+  },
+  {
+    "gameID": "20250415_COL@LAD",
+    "gameType": "REGULAR_SEASON",
+    "away": "COL",
+    "gameTime": "10:10p",
+    "gameDate": "20250415",
+    "teamIDHome": "14",
+    "gameTime_epoch": "1744769400.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "9",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "LAD"
+  },
+  {
+    "gameID": "20250415_SF@PHI",
+    "gameType": "REGULAR_SEASON",
+    "away": "SF",
+    "gameTime": "6:45p",
+    "gameDate": "20250415",
+    "teamIDHome": "21",
+    "gameTime_epoch": "1744757100.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "24",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "PHI"
+  },
+  {
+    "gameID": "20250415_CLE@BAL",
+    "gameType": "REGULAR_SEASON",
+    "away": "CLE",
+    "gameTime": "7:05p",
+    "gameDate": "20250415",
+    "teamIDHome": "3",
+    "gameTime_epoch": "1744758300.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "8",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "BAL"
+  },
+  {
+    "gameID": "20250415_LAA@TEX",
+    "gameType": "REGULAR_SEASON",
+    "away": "LAA",
+    "gameTime": "8:05p",
+    "gameDate": "20250415",
+    "teamIDHome": "28",
+    "gameTime_epoch": "1744761900.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "13",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "TEX"
+  },
+  {
+    "gameID": "20250415_DET@MIL",
+    "gameType": "REGULAR_SEASON",
+    "away": "DET",
+    "gameTime": "7:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "16",
+    "gameTime_epoch": "1744760400.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "10",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "MIL"
+  },
+  {
+    "gameID": "20250415_KC@NYY",
+    "gameType": "REGULAR_SEASON",
+    "away": "KC",
+    "gameTime": "7:05p",
+    "gameDate": "20250415",
+    "teamIDHome": "19",
+    "gameTime_epoch": "1744758300.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "12",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "NYY"
+  },
+  {
+    "gameID": "20250415_SEA@CIN",
+    "gameType": "REGULAR_SEASON",
+    "away": "SEA",
+    "gameTime": "6:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "7",
+    "gameTime_epoch": "1744756800.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "25",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "CIN"
+  },
+  {
+    "gameID": "20250415_WAS@PIT",
+    "gameType": "REGULAR_SEASON",
+    "away": "WAS",
+    "gameTime": "6:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "22",
+    "gameTime_epoch": "1744756800.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "30",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "PIT"
+  },
+  {
+    "gameID": "20250415_HOU@STL",
+    "gameType": "REGULAR_SEASON",
+    "away": "HOU",
+    "gameTime": "7:45p",
+    "gameDate": "20250415",
+    "teamIDHome": "26",
+    "gameTime_epoch": "1744760700.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "11",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "STL"
+  },
+  {
+    "gameID": "20250415_BOS@TB",
+    "gameType": "REGULAR_SEASON",
+    "away": "BOS",
+    "gameTime": "7:05p",
+    "gameDate": "20250415",
+    "teamIDHome": "27",
+    "gameTime_epoch": "1744758300.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "4",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "TB"
+  },
+  {
+    "gameID": "20250415_NYM@MIN",
+    "gameType": "REGULAR_SEASON",
+    "away": "NYM",
+    "gameTime": "7:40p",
+    "gameDate": "20250415",
+    "teamIDHome": "17",
+    "gameTime_epoch": "1744760400.0",
+    "probableStartingLineups": {
+      "away": [],
+      "home": []
+    },
+    "teamIDAway": "18",
+    "probableStartingPitchers": {
+      "away": "",
+      "home": ""
+    },
+    "home": "MIN"
+  }
+]

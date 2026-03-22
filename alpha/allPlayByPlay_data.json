@@ -1,0 +1,5665 @@
+[
+  {
+    "gameID": "20250401_DET@SEA",
+    "allPlayByPlay": [
+      {
+        "result": "Lineout",
+        "description": "Zach McKinstry lines out to center fielder Julio Rodr\u00edguez.",
+        "playerID": "656716",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Double",
+        "description": "Riley Greene doubles (2) on a ground ball to right fielder Victor Robles.",
+        "playerID": "682985",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Spencer Torkelson strikes out swinging.",
+        "playerID": "679529",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Kerry Carpenter singles on a ground ball to right fielder Victor Robles. Riley Greene scores. Kerry Carpenter to 2nd.",
+        "playerID": "681481",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Colt Keith singles on a line drive to left fielder Randy Arozarena. Kerry Carpenter scores. Colt Keith to 2nd.",
+        "playerID": "690993",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Manuel Margot strikes out swinging.",
+        "playerID": "622534",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Victor Robles singles on a sharp line drive to right fielder Manuel Margot.",
+        "playerID": "645302",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Julio Rodr\u00edguez strikes out swinging.",
+        "playerID": "677594",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Walk",
+        "description": "Cal Raleigh walks. Victor Robles to 2nd.",
+        "playerID": "663728",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Randy Arozarena grounds out, third baseman Zach McKinstry to first baseman Spencer Torkelson. Victor Robles to 3rd. Cal Raleigh to 2nd.",
+        "playerID": "668227",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Luke Raley strikes out on a foul tip.",
+        "playerID": "670042",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Trey Sweeney grounds out, first baseman Luke Raley to pitcher Logan Gilbert.",
+        "playerID": "700242",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jake Rogers grounds out, pitcher Logan Gilbert to first baseman Luke Raley.",
+        "playerID": "668670",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ryan Kreidler grounds out, shortstop J.P. Crawford to first baseman Luke Raley.",
+        "playerID": "668952",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Rowdy Tellez strikes out swinging.",
+        "playerID": "642133",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Ryan Bliss flies out to right fielder Manuel Margot.",
+        "playerID": "669208",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Miles Mastrobuoni pops out to third baseman Zach McKinstry.",
+        "playerID": "670156",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Zach McKinstry singles on a line drive to right fielder Victor Robles.",
+        "playerID": "656716",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Zach McKinstry steals (1) 2nd base.",
+        "playerID": "682985",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Double",
+        "description": "Spencer Torkelson doubles (2) on a line drive to right fielder Victor Robles. Zach McKinstry scores.",
+        "playerID": "679529",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kerry Carpenter strikes out swinging.",
+        "playerID": "681481",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Colt Keith walks.",
+        "playerID": "690993",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Manuel Margot strikes out swinging.",
+        "playerID": "622534",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "J.P. Crawford strikes out swinging.",
+        "playerID": "641487",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Victor Robles flies out to right fielder Manuel Margot.",
+        "playerID": "645302",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Julio Rodr\u00edguez grounds out, shortstop Trey Sweeney to first baseman Spencer Torkelson.",
+        "playerID": "677594",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Trey Sweeney called out on strikes.",
+        "playerID": "700242",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jake Rogers called out on strikes.",
+        "playerID": "668670",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ryan Kreidler strikes out swinging.",
+        "playerID": "668952",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cal Raleigh called out on strikes.",
+        "playerID": "663728",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Randy Arozarena pops out to catcher Jake Rogers in foul territory.",
+        "playerID": "668227",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Luke Raley strikes out swinging.",
+        "playerID": "670042",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Zach McKinstry grounds out, second baseman Ryan Bliss to first baseman Luke Raley.",
+        "playerID": "656716",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Riley Greene strikes out swinging.",
+        "playerID": "682985",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Spencer Torkelson strikes out swinging.",
+        "playerID": "679529",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Rowdy Tellez grounds out, second baseman Colt Keith to first baseman Spencer Torkelson.",
+        "playerID": "642133",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Ryan Bliss flies out to right fielder Manuel Margot.",
+        "playerID": "669208",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Miles Mastrobuoni grounds out, second baseman Colt Keith to first baseman Spencer Torkelson.",
+        "playerID": "670156",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Lineout",
+        "description": "Pitching Change: Gabe Speier replaces Logan Gilbert.",
+        "playerID": "628451",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Colt Keith strikes out on a foul tip.",
+        "playerID": "690993",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Manuel Margot strikes out on a foul tip.",
+        "playerID": "622534",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Defensive switch from third base to left field for Zach McKinstry.",
+        "playerID": "641487",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Double Play",
+        "description": "Victor Robles lines into an unassisted double play, first baseman Spencer Torkelson. J.P. Crawford out at 1st.",
+        "playerID": "645302",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Julio Rodr\u00edguez walks.",
+        "playerID": "677594",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Pitching Change: Beau Brieske replaces Casey Mize.",
+        "playerID": "663728",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Gregory Santos replaces Gabe Speier.",
+        "playerID": "700242",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jake Rogers grounds out, third baseman Miles Mastrobuoni to first baseman Luke Raley.",
+        "playerID": "668670",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Ryan Kreidler singles on a ground ball to left fielder Randy Arozarena.",
+        "playerID": "668952",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ryan Kreidler steals (1) 2nd base.",
+        "playerID": "656716",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Walk",
+        "description": "Randy Arozarena walks.",
+        "playerID": "668227",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Wild pitch by pitcher Beau Brieske. Randy Arozarena to 2nd.",
+        "playerID": "670042",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Sac Fly",
+        "description": "Rowdy Tellez out on a sacrifice fly to left fielder Zach McKinstry. Randy Arozarena scores.",
+        "playerID": "642133",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ryan Bliss strikes out swinging.",
+        "playerID": "669208",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Home Run",
+        "description": "Pitching Change: Trent Thornton replaces Gregory Santos.",
+        "playerID": "682985",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Spencer Torkelson grounds out, shortstop J.P. Crawford to first baseman Luke Raley.",
+        "playerID": "679529",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Lineout",
+        "description": "Andy Ib\u00e1\u00f1ez lines out to right fielder Victor Robles.",
+        "playerID": "628451",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Jhonathan D\u00edaz replaces Trent Thornton.",
+        "playerID": "690993",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Will Vest replaces Beau Brieske.",
+        "playerID": "670156",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Lineout",
+        "description": "J.P. Crawford lines out to center fielder Ryan Kreidler.",
+        "playerID": "641487",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Victor Robles grounds out, shortstop Trey Sweeney to first baseman Spencer Torkelson.",
+        "playerID": "645302",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Lineout",
+        "description": "Manuel Margot lines out to shortstop J.P. Crawford.",
+        "playerID": "622534",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Trey Sweeney singles on a ground ball to right fielder Victor Robles.",
+        "playerID": "700242",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jake Rogers pops out to second baseman Ryan Bliss.",
+        "playerID": "668670",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ryan Kreidler strikes out swinging.",
+        "playerID": "668952",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Pitching Change: Tommy Kahnle replaces Will Vest.",
+        "playerID": "677594",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Cal Raleigh pops out to shortstop Trey Sweeney.",
+        "playerID": "663728",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Randy Arozarena grounds out, catcher Jake Rogers to first baseman Spencer Torkelson. Julio Rodr\u00edguez to 2nd.",
+        "playerID": "668227",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luke Raley grounds out to first baseman Spencer Torkelson.",
+        "playerID": "670042",
+        "inning": "Bottom  9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_KC@MIL",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "Jonathan India strikes out swinging.",
+        "playerID": "663697",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Lineout",
+        "description": "Bobby Witt Jr. lines out sharply to center fielder Sal Frelick.",
+        "playerID": "677951",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Walk",
+        "description": "Michael Massey walks.",
+        "playerID": "686681",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Salvador Perez flies out to left fielder Christian Yelich.",
+        "playerID": "521692",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "On-field Delay.",
+        "playerID": "668930",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jackson Chourio pops out to shortstop Bobby Witt Jr.",
+        "playerID": "694192",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Forceout",
+        "description": "Christian Yelich grounds into a force out, shortstop Bobby Witt Jr. to second baseman Michael Massey. Brice Turang out at 2nd. Christian Yelich to 1st.",
+        "playerID": "592885",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "William Contreras strikes out swinging.",
+        "playerID": "661388",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cavan Biggio called out on strikes.",
+        "playerID": "624415",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Hunter Renfroe grounds out sharply, third baseman Oliver Dunn to first baseman Rhys Hoskins.",
+        "playerID": "592669",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Walk",
+        "description": "MJ Melendez walks.",
+        "playerID": "669004",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Double",
+        "description": "Maikel Garcia doubles (2) on a fly ball to center fielder Sal Frelick. MJ Melendez to 3rd.",
+        "playerID": "672580",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Kyle Isbel pops out to third baseman Oliver Dunn.",
+        "playerID": "664728",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Sal Frelick strikes out swinging.",
+        "playerID": "686217",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Rhys Hoskins flies out to center fielder Kyle Isbel.",
+        "playerID": "656555",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Oliver Dunn called out on strikes.",
+        "playerID": "686554",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jonathan India pops out to catcher Eric Haase in foul territory.",
+        "playerID": "663697",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Double",
+        "description": "Bobby Witt Jr. doubles (2) on a line drive to center fielder Sal Frelick.",
+        "playerID": "677951",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Lineout",
+        "description": "On-field Delay.",
+        "playerID": "686681",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Salvador Perez grounds out, third baseman Oliver Dunn to first baseman Rhys Hoskins.",
+        "playerID": "521692",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Joey Ortiz flies out to right fielder Hunter Renfroe.",
+        "playerID": "687401",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Home Run",
+        "description": "Eric Haase homers (1) on a fly ball to left field.",
+        "playerID": "606992",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Single",
+        "description": "Brice Turang singles on a line drive to left fielder Jonathan India.",
+        "playerID": "668930",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Single",
+        "description": "Jackson Chourio singles on a sharp ground ball to right fielder Hunter Renfroe. Brice Turang to 3rd.",
+        "playerID": "694192",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Forceout",
+        "description": "Christian Yelich grounds into a force out, second baseman Michael Massey to shortstop Bobby Witt Jr. Brice Turang scores. Jackson Chourio out at 2nd. Christian Yelich advances to 2nd, on a throwing error by shortstop Bobby Witt Jr.",
+        "playerID": "592885",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Walk",
+        "description": "William Contreras walks. Christian Yelich to 3rd. Christian Yelich steals (2) 3rd base. Christian Yelich to 3rd.",
+        "playerID": "661388",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Sal Frelick grounds out, third baseman Maikel Garcia to first baseman Cavan Biggio.",
+        "playerID": "686217",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cavan Biggio strikes out swinging.",
+        "playerID": "624415",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Hunter Renfroe pops out to third baseman Oliver Dunn in foul territory.",
+        "playerID": "592669",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "MJ Melendez strikes out swinging.",
+        "playerID": "669004",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Lineout",
+        "description": "Rhys Hoskins lines out sharply to left fielder Jonathan India.",
+        "playerID": "656555",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Oliver Dunn strikes out swinging.",
+        "playerID": "686554",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Joey Ortiz strikes out swinging.",
+        "playerID": "687401",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Maikel Garcia flies out to center fielder Sal Frelick.",
+        "playerID": "672580",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kyle Isbel called out on strikes.",
+        "playerID": "664728",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Double",
+        "description": "Jonathan India doubles (1) on a sharp line drive to left fielder Christian Yelich.",
+        "playerID": "663697",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Intent Walk",
+        "description": "Chad Patrick intentionally walks Bobby Witt Jr.",
+        "playerID": "677951",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Jared Koenig replaces Chad Patrick.",
+        "playerID": "686681",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Eric Haase grounds out, pitcher Michael Lorenzen to first baseman Cavan Biggio.",
+        "playerID": "606992",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Brice Turang grounds out, shortstop Bobby Witt Jr. to first baseman Cavan Biggio.",
+        "playerID": "668930",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jackson Chourio strikes out swinging.",
+        "playerID": "694192",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Salvador Perez flies out sharply to right fielder Jackson Chourio.",
+        "playerID": "521692",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Offensive Substitution: Pinch-hitter Mark Canha replaces Cavan Biggio.",
+        "playerID": "592192",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Hunter Renfroe walks.",
+        "playerID": "592669",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "MJ Melendez hit by pitch. Hunter Renfroe to 2nd.",
+        "playerID": "669004",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Abner Uribe replaces Jared Koenig.",
+        "playerID": "672580",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Mark Canha remains in the game as the first baseman.",
+        "playerID": "592885",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Wild pitch by pitcher Michael Lorenzen. Christian Yelich to 2nd.",
+        "playerID": "661388",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Sal Frelick called out on strikes.",
+        "playerID": "686217",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Rhys Hoskins singles on a ground ball to center fielder Kyle Isbel. Christian Yelich scores. William Contreras to 3rd. Throwing error by center fielder Kyle Isbel.",
+        "playerID": "656555",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Forceout",
+        "description": "Pitching Change: Sam Long replaces Michael Lorenzen.",
+        "playerID": "681962",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Joey Ortiz grounds out sharply to first baseman Mark Canha.",
+        "playerID": "687401",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Vinny Capra remains in the game as the third baseman.",
+        "playerID": "664728",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jonathan India grounds out sharply, third baseman Vinny Capra to first baseman Rhys Hoskins.",
+        "playerID": "663697",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Bobby Witt Jr. grounds out softly, catcher Eric Haase to first baseman Rhys Hoskins.",
+        "playerID": "677951",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Eric Haase strikes out on a foul tip.",
+        "playerID": "606992",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Single",
+        "description": "Brice Turang singles on a ground ball to right fielder Hunter Renfroe.",
+        "playerID": "668930",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Jackson Chourio grounds into a double play, shortstop Bobby Witt Jr. to second baseman Michael Massey to first baseman Mark Canha. Brice Turang out at 2nd. Jackson Chourio out at 1st.",
+        "playerID": "694192",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Joel Payamps replaces Abner Uribe.",
+        "playerID": "686681",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Salvador Perez grounds out sharply, third baseman Vinny Capra to first baseman Rhys Hoskins.",
+        "playerID": "521692",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Single",
+        "description": "Mark Canha singles on a sharp line drive to left fielder Christian Yelich.",
+        "playerID": "592192",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Hunter Renfroe called out on strikes.",
+        "playerID": "592669",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Home Run",
+        "description": "Pitching Change: John Schreiber replaces Sam Long.",
+        "playerID": "592885",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "William Contreras grounds out softly, shortstop Bobby Witt Jr. to first baseman Mark Canha.",
+        "playerID": "661388",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Sal Frelick grounds out, pitcher John Schreiber to first baseman Mark Canha.",
+        "playerID": "686217",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Rhys Hoskins flies out to right fielder Hunter Renfroe.",
+        "playerID": "656555",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Trevor Megill replaces Joel Payamps.",
+        "playerID": "669004",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Maikel Garcia grounds out, shortstop Joey Ortiz to first baseman Rhys Hoskins.",
+        "playerID": "672580",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kyle Isbel strikes out on a foul tip.",
+        "playerID": "664728",
+        "inning": "Top 9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_ARI@NYY",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "Corbin Carroll strikes out swinging.",
+        "playerID": "682998",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ketel Marte grounds out sharply, first baseman Paul Goldschmidt to pitcher Will Warren.",
+        "playerID": "606466",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pavin Smith strikes out swinging.",
+        "playerID": "656976",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Paul Goldschmidt strikes out swinging.",
+        "playerID": "502671",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cody Bellinger strikes out swinging.",
+        "playerID": "641355",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Aaron Judge pops out to third baseman Eugenio Su\u00e1rez.",
+        "playerID": "592450",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Josh Naylor grounds out, second baseman Jazz Chisholm Jr. to first baseman Paul Goldschmidt.",
+        "playerID": "647304",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Lineout",
+        "description": "Eugenio Su\u00e1rez lines out to left fielder Jasson Dom\u00ednguez.",
+        "playerID": "553993",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Gabriel Moreno strikes out swinging.",
+        "playerID": "672515",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jazz Chisholm Jr. called out on strikes.",
+        "playerID": "665862",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Anthony Volpe strikes out swinging.",
+        "playerID": "683011",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Austin Wells grounds out softly to first baseman Josh Naylor.",
+        "playerID": "669224",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jake McCarthy grounds out, second baseman Jazz Chisholm Jr. to first baseman Paul Goldschmidt.",
+        "playerID": "664983",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Alek Thomas flies out to center fielder Cody Bellinger.",
+        "playerID": "677950",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Geraldo Perdomo walks.",
+        "playerID": "672695",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Home Run",
+        "description": "Corbin Carroll homers (1) on a fly ball to right field. Geraldo Perdomo scores.",
+        "playerID": "682998",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ketel Marte grounds out, second baseman Jazz Chisholm Jr. to first baseman Paul Goldschmidt.",
+        "playerID": "606466",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Home Run",
+        "description": "Jasson Dom\u00ednguez homers (1) on a fly ball to right center field.",
+        "playerID": "691176",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Double",
+        "description": "Ben Rice doubles (1) on a sharp line drive to right fielder Corbin Carroll.",
+        "playerID": "700250",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Walk",
+        "description": "Oswaldo Cabrera walks.",
+        "playerID": "665828",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Paul Goldschmidt flies out to right fielder Corbin Carroll.",
+        "playerID": "502671",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cody Bellinger strikes out swinging.",
+        "playerID": "641355",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Forceout",
+        "description": "Aaron Judge grounds into a force out, third baseman Eugenio Su\u00e1rez to second baseman Ketel Marte. Oswaldo Cabrera out at 2nd.",
+        "playerID": "592450",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Walk",
+        "description": "Pavin Smith walks.",
+        "playerID": "656976",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Walk",
+        "description": "Josh Naylor walks. Pavin Smith to 2nd.",
+        "playerID": "647304",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Eugenio Su\u00e1rez grounds into a double play, second baseman Jazz Chisholm Jr. to shortstop Anthony Volpe to first baseman Paul Goldschmidt. Pavin Smith to 3rd. Josh Naylor out at 2nd. Eugenio Su\u00e1rez out at 1st.",
+        "playerID": "553993",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Gabriel Moreno grounds out, shortstop Anthony Volpe to first baseman Paul Goldschmidt.",
+        "playerID": "672515",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jazz Chisholm Jr. strikes out swinging.",
+        "playerID": "665862",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Home Run",
+        "description": "Anthony Volpe homers (3) on a fly ball to left center field.",
+        "playerID": "683011",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Walk",
+        "description": "Austin Wells walks.",
+        "playerID": "669224",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Jasson Dom\u00ednguez singles on a line drive to right fielder Corbin Carroll. Austin Wells to 2nd.",
+        "playerID": "691176",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Wild pitch by pitcher Corbin Burnes. Austin Wells to 3rd. Jasson Dom\u00ednguez to 2nd.",
+        "playerID": "700250",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Field Error",
+        "description": "Oswaldo Cabrera reaches on a throwing error by first baseman Josh Naylor. Austin Wells scores. Jasson Dom\u00ednguez scores.",
+        "playerID": "665828",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Lineout",
+        "description": "Paul Goldschmidt lines out sharply to third baseman Eugenio Su\u00e1rez.",
+        "playerID": "502671",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Walk",
+        "description": "Jake McCarthy walks.",
+        "playerID": "664983",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Alek Thomas grounds out to first baseman Paul Goldschmidt. Jake McCarthy to 2nd.",
+        "playerID": "677950",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Lineout",
+        "description": "Geraldo Perdomo lines out to left fielder Jasson Dom\u00ednguez.",
+        "playerID": "672695",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Corbin Carroll strikes out swinging.",
+        "playerID": "682998",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Walk",
+        "description": "Cody Bellinger walks.",
+        "playerID": "641355",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cody Bellinger steals (1) 2nd base.",
+        "playerID": "592450",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Jalen Beeks replaces Corbin Burnes.",
+        "playerID": "665862",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Anthony Volpe grounds out sharply, pitcher Jalen Beeks to first baseman Josh Naylor.",
+        "playerID": "683011",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Fernando Cruz replaces Will Warren.",
+        "playerID": "606466",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pavin Smith strikes out swinging.",
+        "playerID": "656976",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Josh Naylor grounds out to first baseman Paul Goldschmidt.",
+        "playerID": "647304",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Austin Wells flies out to left fielder Jake McCarthy.",
+        "playerID": "669224",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jasson Dom\u00ednguez flies out to right fielder Corbin Carroll.",
+        "playerID": "691176",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ben Rice grounds out sharply, second baseman Ketel Marte to first baseman Josh Naylor.",
+        "playerID": "700250",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Defensive switch from center field to left field for Cody Bellinger.",
+        "playerID": "553993",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Gabriel Moreno strikes out swinging.",
+        "playerID": "672515",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jake McCarthy flies out to center fielder Trent Grisham.",
+        "playerID": "664983",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Pitching Change: Shelby Miller replaces Jalen Beeks.",
+        "playerID": "665828",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Lineout",
+        "description": "Paul Goldschmidt lines out to right fielder Corbin Carroll.",
+        "playerID": "502671",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Cody Bellinger grounds out, second baseman Ketel Marte to first baseman Josh Naylor.",
+        "playerID": "641355",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Double",
+        "description": "Pitching Change: Tim Hill replaces Fernando Cruz.",
+        "playerID": "545341",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Single",
+        "description": "Geraldo Perdomo singles on a ground ball to right fielder Aaron Judge. Randal Grichuk scores.",
+        "playerID": "672695",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Forceout",
+        "description": "Corbin Carroll grounds into a force out, pitcher Tim Hill to shortstop Anthony Volpe. Geraldo Perdomo out at 2nd. Corbin Carroll to 1st.",
+        "playerID": "682998",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Mark Leiter Jr. replaces Tim Hill.",
+        "playerID": "606466",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Walk",
+        "description": "Pavin Smith walks. Corbin Carroll to 3rd. Ketel Marte to 2nd.",
+        "playerID": "656976",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Josh Naylor strikes out swinging.",
+        "playerID": "647304",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Home Run",
+        "description": "Eugenio Su\u00e1rez hits a grand slam (5) to left center field. Corbin Carroll scores. Ketel Marte scores. Pavin Smith scores.",
+        "playerID": "553993",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Adam Ottavino replaces Mark Leiter Jr.",
+        "playerID": "672515",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Defensive switch from left field to center field for Jake McCarthy.",
+        "playerID": "592450",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jazz Chisholm Jr. strikes out on a foul tip.",
+        "playerID": "665862",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Anthony Volpe strikes out swinging.",
+        "playerID": "683011",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Walk",
+        "description": "Jake McCarthy walks.",
+        "playerID": "664983",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jake McCarthy steals (1) 2nd base.",
+        "playerID": "666971",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Brent Headrick replaces Adam Ottavino.",
+        "playerID": "672695",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Corbin Carroll strikes out swinging.",
+        "playerID": "682998",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ketel Marte grounds out sharply, third baseman Oswaldo Cabrera to first baseman Paul Goldschmidt.",
+        "playerID": "606466",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: A.J. Puk replaces Justin Martinez.",
+        "playerID": "669224",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Trent Grisham called out on strikes.",
+        "playerID": "663757",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Home Run",
+        "description": "Ben Rice homers (2) on a fly ball to right field.",
+        "playerID": "700250",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Lineout",
+        "description": "Offensive Substitution: Pinch-hitter Pablo Reyes replaces Oswaldo Cabrera.",
+        "playerID": "622569",
+        "inning": "Bottom  9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_LAA@STL",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "Taylor Ward called out on strikes.",
+        "playerID": "621493",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Lineout",
+        "description": "Luis Rengifo lines out to first baseman Alec Burleson.",
+        "playerID": "650859",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Mike Trout strikes out swinging.",
+        "playerID": "545361",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Lars Nootbaar singles on a line drive to center fielder Jo Adell.",
+        "playerID": "663457",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Alec Burleson flies out to left fielder Taylor Ward. Lars Nootbaar to 2nd.",
+        "playerID": "676475",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Lineout",
+        "description": "Brendan Donovan lines out sharply to left fielder Taylor Ward.",
+        "playerID": "680977",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nolan Arenado grounds out, pitcher Kyle Hendricks to second baseman Luis Rengifo to first baseman Nolan Schanuel.",
+        "playerID": "571448",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jorge Soler grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "624585",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Lineout",
+        "description": "Yo\u00e1n Moncada lines out to third baseman Nolan Arenado.",
+        "playerID": "660162",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Lineout",
+        "description": "Travis d'Arnaud lines out to center fielder Victor Scott II.",
+        "playerID": "518595",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Double",
+        "description": "Nolan Gorman doubles (1) on a sharp fly ball to center fielder Jo Adell.",
+        "playerID": "669357",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Jordan Walker singles on a ground ball to center fielder Jo Adell. Nolan Gorman scores.",
+        "playerID": "691023",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pedro Pag\u00e9s flies out to second baseman Luis Rengifo.",
+        "playerID": "686780",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Victor Scott II singles on a line drive to right fielder Mike Trout. Jordan Walker to 2nd.",
+        "playerID": "687363",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Masyn Winn strikes out swinging. Victor Scott II to 2nd. Jordan Walker steals (1) 3rd base. Victor Scott II steals (4) 2nd base.",
+        "playerID": "691026",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Lars Nootbaar flies out to right fielder Mike Trout.",
+        "playerID": "663457",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nolan Schanuel grounds out, second baseman Brendan Donovan to first baseman Alec Burleson.",
+        "playerID": "694384",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jo Adell grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "666176",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Tim Anderson singles on a line drive to left fielder Lars Nootbaar.",
+        "playerID": "641313",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Taylor Ward singles on a line drive to right fielder Jordan Walker. Tim Anderson to 3rd.",
+        "playerID": "621493",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Double",
+        "description": "Luis Rengifo doubles (1) on a line drive to left fielder Lars Nootbaar. Tim Anderson scores. Taylor Ward to 3rd.",
+        "playerID": "650859",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Double",
+        "description": "Mike Trout doubles (1) on a ground ball to left fielder Lars Nootbaar. Taylor Ward scores. Luis Rengifo scores.",
+        "playerID": "545361",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jorge Soler grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "624585",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Alec Burleson grounds out, pitcher Kyle Hendricks to first baseman Nolan Schanuel.",
+        "playerID": "676475",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Brendan Donovan grounds out, catcher Travis d'Arnaud to first baseman Nolan Schanuel.",
+        "playerID": "680977",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Nolan Arenado flies out to right fielder Mike Trout.",
+        "playerID": "571448",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Yo\u00e1n Moncada pops out to first baseman Alec Burleson in foul territory.",
+        "playerID": "660162",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Single",
+        "description": "Travis d'Arnaud singles on a ground ball to left fielder Lars Nootbaar.",
+        "playerID": "518595",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Nolan Schanuel grounds into a double play, second baseman Brendan Donovan to shortstop Masyn Winn to first baseman Alec Burleson. Travis d'Arnaud out at 2nd. Nolan Schanuel out at 1st.",
+        "playerID": "694384",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Nolan Gorman flies out to shortstop Tim Anderson.",
+        "playerID": "669357",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Home Run",
+        "description": "Jordan Walker homers (1) on a fly ball to center field.",
+        "playerID": "691023",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Pedro Pag\u00e9s singles on a fly ball to center fielder Jo Adell.",
+        "playerID": "686780",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Victor Scott II grounds out, first baseman Nolan Schanuel to pitcher Kyle Hendricks. Pedro Pag\u00e9s to 2nd.",
+        "playerID": "687363",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Masyn Winn pops out to first baseman Nolan Schanuel in foul territory.",
+        "playerID": "691026",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jo Adell grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "666176",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Tim Anderson grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "641313",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Taylor Ward called out on strikes.",
+        "playerID": "621493",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Lars Nootbaar strikes out swinging.",
+        "playerID": "663457",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "Alec Burleson singles on a line drive to left fielder Taylor Ward.",
+        "playerID": "676475",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Brendan Donovan grounds into a double play, second baseman Luis Rengifo to shortstop Tim Anderson to first baseman Nolan Schanuel. Alec Burleson out at 2nd. Brendan Donovan out at 1st.",
+        "playerID": "680977",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "Luis Rengifo singles on a line drive to left fielder Lars Nootbaar.",
+        "playerID": "650859",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Luis Rengifo caught stealing 2nd base, catcher Pedro Pag\u00e9s to second baseman Brendan Donovan.",
+        "playerID": "545361",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jorge Soler called out on strikes.",
+        "playerID": "624585",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nolan Arenado strikes out swinging.",
+        "playerID": "571448",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nolan Gorman strikes out swinging.",
+        "playerID": "669357",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jordan Walker pops out to shortstop Tim Anderson.",
+        "playerID": "691023",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Kyle Leahy replaces Matthew Liberatore.",
+        "playerID": "660162",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Travis d'Arnaud grounds out, pitcher Kyle Leahy to shortstop Masyn Winn to first baseman Alec Burleson.",
+        "playerID": "518595",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nolan Schanuel grounds out, second baseman Brendan Donovan to first baseman Alec Burleson.",
+        "playerID": "694384",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Ian Anderson replaces Kyle Hendricks.",
+        "playerID": "686780",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Victor Scott II strikes out swinging.",
+        "playerID": "687363",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Masyn Winn grounds out to first baseman Nolan Schanuel.",
+        "playerID": "691026",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jo Adell grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "666176",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Tim Anderson strikes out swinging.",
+        "playerID": "641313",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Taylor Ward grounds out, third baseman Nolan Arenado to first baseman Alec Burleson.",
+        "playerID": "621493",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Ben Joyce replaces Ian Anderson.",
+        "playerID": "663457",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Alec Burleson grounds out, second baseman Luis Rengifo to first baseman Nolan Schanuel. Lars Nootbaar to 2nd.",
+        "playerID": "676475",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Brendan Donovan grounds out, second baseman Luis Rengifo to first baseman Nolan Schanuel. Lars Nootbaar to 3rd.",
+        "playerID": "680977",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Field Error",
+        "description": "Nolan Arenado reaches on a throwing error by first baseman Nolan Schanuel. Lars Nootbaar scores. Nolan Arenado to 2nd.",
+        "playerID": "571448",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nolan Gorman grounds out, second baseman Luis Rengifo to first baseman Nolan Schanuel.",
+        "playerID": "669357",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Ryan Helsley replaces Kyle Leahy.",
+        "playerID": "650859",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Mike Trout flies out to second baseman Brendan Donovan.",
+        "playerID": "545361",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jorge Soler called out on strikes.",
+        "playerID": "624585",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Kenley Jansen replaces Ben Joyce.",
+        "playerID": "691023",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pedro Pag\u00e9s flies out to right fielder Mike Trout.",
+        "playerID": "686780",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Victor Scott II flies out to center fielder Jo Adell.",
+        "playerID": "687363",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Ryan Fernandez replaces Ryan Helsley.",
+        "playerID": "660162",
+        "inning": "Top 10"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Travis d'Arnaud pops out to first baseman Alec Burleson on the infield fly rule.",
+        "playerID": "518595",
+        "inning": "Top 10"
+      },
+      {
+        "result": "Triple",
+        "description": "Nolan Schanuel triples (1) on a sharp line drive to center fielder Victor Scott II. Kyren Paris scores. Yo\u00e1n Moncada scores.",
+        "playerID": "694384",
+        "inning": "Top 10"
+      },
+      {
+        "result": "Single",
+        "description": "Jo Adell singles on a ground ball to left fielder Lars Nootbaar. Nolan Schanuel scores.",
+        "playerID": "666176",
+        "inning": "Top 10"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Tim Anderson grounds into a double play, pitcher Ryan Fernandez to second baseman Brendan Donovan to first baseman Alec Burleson. Jo Adell out at 2nd. Tim Anderson out at 1st.",
+        "playerID": "641313",
+        "inning": "Top 10"
+      },
+      {
+        "result": "Walk",
+        "description": "Kyren Paris remains in the game as the designated hitter.",
+        "playerID": "691026",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Lars Nootbaar called out on strikes.",
+        "playerID": "663457",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Double",
+        "description": "Offensive Substitution: Pinch-hitter Luken Baker replaces Alec Burleson.",
+        "playerID": "663609",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Walk",
+        "description": "Offensive Substitution: Pinch-runner Michael Siani replaces Luken Baker.",
+        "playerID": "680977",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Ryan Johnson replaces Garrett McDaniels.",
+        "playerID": "571448",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Intent Walk",
+        "description": "Ryan Johnson intentionally walks Nolan Gorman. Nolan Arenado to 2nd.",
+        "playerID": "669357",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jordan Walker flies out to right fielder Mike Trout.",
+        "playerID": "691023",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Forceout",
+        "description": "Offensive Substitution: Pinch-hitter Iv\u00e1n Herrera replaces Pedro Pag\u00e9s.",
+        "playerID": "671056",
+        "inning": "Bottom  10"
+      },
+      {
+        "result": "Groundout",
+        "description": "Defensive Substitution: Willson Contreras replaces Michael Siani, batting 2nd, playing first base.",
+        "playerID": "621493",
+        "inning": "Top 11"
+      },
+      {
+        "result": "Bunt Pop Out",
+        "description": "Luis Rengifo bunt pops out softly to catcher Iv\u00e1n Herrera in foul territory.",
+        "playerID": "650859",
+        "inning": "Top 11"
+      },
+      {
+        "result": "Intent Walk",
+        "description": "Chris Roycroft intentionally walks Mike Trout.",
+        "playerID": "545361",
+        "inning": "Top 11"
+      },
+      {
+        "result": "Single",
+        "description": "Kyren Paris singles on a line drive to right fielder Jordan Walker. Tim Anderson scores. Mike Trout to 3rd.",
+        "playerID": "677347",
+        "inning": "Top 11"
+      },
+      {
+        "result": "Double",
+        "description": "Kyren Paris steals (3) 2nd base.",
+        "playerID": "660162",
+        "inning": "Top 11"
+      },
+      {
+        "result": "Flyout",
+        "description": "Travis d'Arnaud flies out to right fielder Jordan Walker in foul territory.",
+        "playerID": "518595",
+        "inning": "Top 11"
+      },
+      {
+        "result": "Single",
+        "description": "Iv\u00e1n Herrera starts inning at 2nd base.",
+        "playerID": "687363",
+        "inning": "Bottom  11"
+      },
+      {
+        "result": "Lineout",
+        "description": "Masyn Winn lines out to center fielder Jo Adell.",
+        "playerID": "691026",
+        "inning": "Bottom  11"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Ryan Zeferjahn replaces Ryan Johnson.",
+        "playerID": "663457",
+        "inning": "Bottom  11"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Victor Scott II advances to 2nd on defensive indifference.",
+        "playerID": "575929",
+        "inning": "Bottom  11"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_PIT@TB",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "Jack Suwinski called out on strikes.",
+        "playerID": "669261",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Bryan Reynolds flies out to left fielder Kameron Misner.",
+        "playerID": "668804",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Oneil Cruz called out on strikes.",
+        "playerID": "665833",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Yandy D\u00edaz singles on a sharp ground ball to left fielder Tommy Pham.",
+        "playerID": "650490",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Walk",
+        "description": "Brandon Lowe walks. Yandy D\u00edaz to 2nd.",
+        "playerID": "664040",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Junior Caminero flies out to center fielder Oneil Cruz. Yandy D\u00edaz to 3rd. Brandon Lowe to 2nd.",
+        "playerID": "691406",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Double",
+        "description": "Jake Mangum doubles (2) on a ground ball to left fielder Tommy Pham. Yandy D\u00edaz scores. Brandon Lowe scores.",
+        "playerID": "663968",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Curtis Mead flies out to right fielder Jack Suwinski.",
+        "playerID": "678554",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Single",
+        "description": "Kameron Misner singles on a sharp ground ball to center fielder Oneil Cruz. Jake Mangum scores. Kameron Misner to 2nd. Kameron Misner advances to 2nd, on a fielding error by center fielder Oneil Cruz.",
+        "playerID": "670224",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Walk",
+        "description": "Danny Jansen walks.",
+        "playerID": "643376",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Taylor Walls strikes out on a foul tip.",
+        "playerID": "670764",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Joey Bart strikes out swinging.",
+        "playerID": "663698",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Tommy Pham grounds out, third baseman Junior Caminero to first baseman Curtis Mead.",
+        "playerID": "502054",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Enmanuel Valdez strikes out swinging.",
+        "playerID": "665839",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jonny DeLuca grounds out, third baseman Ke'Bryan Hayes to first baseman Enmanuel Valdez.",
+        "playerID": "676356",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Yandy D\u00edaz grounds out, second baseman Jared Triolo to first baseman Enmanuel Valdez.",
+        "playerID": "650490",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Brandon Lowe singles on a line drive to center fielder Oneil Cruz.",
+        "playerID": "664040",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Junior Caminero grounds out, shortstop Isiah Kiner-Falefa to first baseman Enmanuel Valdez.",
+        "playerID": "691406",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Ke'Bryan Hayes singles on a ground ball to third baseman Junior Caminero.",
+        "playerID": "663647",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Jared Triolo grounds into a double play, shortstop Taylor Walls to second baseman Brandon Lowe to first baseman Curtis Mead. Ke'Bryan Hayes out at 2nd. Jared Triolo out at 1st.",
+        "playerID": "669707",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Isiah Kiner-Falefa singles on a sharp line drive to right fielder Jake Mangum.",
+        "playerID": "643396",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Lineout",
+        "description": "Jack Suwinski lines out to right fielder Jake Mangum.",
+        "playerID": "669261",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Jake Mangum singles on a soft ground ball to pitcher Thomas Harrington.",
+        "playerID": "663968",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Walk",
+        "description": "Jake Mangum steals (3) 2nd base.",
+        "playerID": "678554",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Sac Fly",
+        "description": "Wild pitch by pitcher Thomas Harrington. Jake Mangum to 3rd. Curtis Mead to 2nd.",
+        "playerID": "670224",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Danny Jansen pops out to shortstop Isiah Kiner-Falefa in foul territory.",
+        "playerID": "643376",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Taylor Walls strikes out swinging.",
+        "playerID": "670764",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Single",
+        "description": "Bryan Reynolds singles on a sharp line drive to center fielder Jonny DeLuca.",
+        "playerID": "668804",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Single",
+        "description": "Oneil Cruz singles on a line drive to left fielder Kameron Misner. Bryan Reynolds to 2nd.",
+        "playerID": "665833",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Joey Bart called out on strikes.",
+        "playerID": "663698",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Tommy Pham grounds into a double play, third baseman Junior Caminero to second baseman Brandon Lowe to first baseman Curtis Mead. Oneil Cruz out at 2nd. Tommy Pham out at 1st.",
+        "playerID": "502054",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jonny DeLuca flies out to center fielder Oneil Cruz.",
+        "playerID": "676356",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Walk",
+        "description": "Yandy D\u00edaz walks.",
+        "playerID": "650490",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Home Run",
+        "description": "Brandon Lowe homers (2) on a fly ball to right center field. Yandy D\u00edaz scores.",
+        "playerID": "664040",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Junior Caminero singles on a ground ball to left fielder Tommy Pham.",
+        "playerID": "691406",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jake Mangum grounds out softly, pitcher Thomas Harrington to first baseman Enmanuel Valdez. Junior Caminero to 2nd.",
+        "playerID": "663968",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Lineout",
+        "description": "Curtis Mead lines out to left fielder Tommy Pham.",
+        "playerID": "678554",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Enmanuel Valdez strikes out swinging.",
+        "playerID": "665839",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Single",
+        "description": "Ke'Bryan Hayes singles on a line drive to right fielder Jake Mangum.",
+        "playerID": "663647",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Single",
+        "description": "Jared Triolo singles on a line drive to right fielder Jake Mangum. Ke'Bryan Hayes to 2nd.",
+        "playerID": "669707",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Forceout",
+        "description": "Isiah Kiner-Falefa grounds into a force out, shortstop Taylor Walls to second baseman Brandon Lowe. Ke'Bryan Hayes to 3rd. Jared Triolo out at 2nd. Isiah Kiner-Falefa to 1st.",
+        "playerID": "643396",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jack Suwinski strikes out swinging.",
+        "playerID": "669261",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Justin Lawrence replaces Thomas Harrington.",
+        "playerID": "670224",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Danny Jansen strikes out swinging, pitcher Justin Lawrence to first baseman Enmanuel Valdez.",
+        "playerID": "643376",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Walk",
+        "description": "Taylor Walls walks.",
+        "playerID": "670764",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jonny DeLuca strikes out swinging.",
+        "playerID": "676356",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Bryan Reynolds strikes out swinging.",
+        "playerID": "668804",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Oneil Cruz called out on strikes.",
+        "playerID": "665833",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Joey Bart singles on a ground ball to third baseman Junior Caminero.",
+        "playerID": "663698",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Tommy Pham strikes out swinging.",
+        "playerID": "502054",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Pitching Change: Caleb Ferguson replaces Justin Lawrence.",
+        "playerID": "650490",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Brandon Lowe grounds out, second baseman Jared Triolo to first baseman Enmanuel Valdez.",
+        "playerID": "664040",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Junior Caminero walks.",
+        "playerID": "691406",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Jake Mangum singles on a line drive to right fielder Jack Suwinski. Junior Caminero to 3rd.",
+        "playerID": "663968",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Curtis Mead pops out softly to first baseman Enmanuel Valdez.",
+        "playerID": "678554",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Mason Englert replaces Shane Baz.",
+        "playerID": "665839",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ke'Bryan Hayes grounds out, shortstop Taylor Walls to first baseman Curtis Mead.",
+        "playerID": "663647",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jared Triolo called out on strikes.",
+        "playerID": "669707",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Joey Wentz replaces Caleb Ferguson.",
+        "playerID": "670224",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Danny Jansen pops out to second baseman Jared Triolo.",
+        "playerID": "643376",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Taylor Walls flies out to center fielder Oneil Cruz.",
+        "playerID": "670764",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Isiah Kiner-Falefa grounds out, shortstop Taylor Walls to first baseman Curtis Mead.",
+        "playerID": "643396",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jack Suwinski strikes out swinging.",
+        "playerID": "669261",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Single",
+        "description": "Bryan Reynolds singles on a sharp ground ball to left fielder Kameron Misner.",
+        "playerID": "668804",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Lineout",
+        "description": "Oneil Cruz lines out to left fielder Kameron Misner.",
+        "playerID": "665833",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Triple",
+        "description": "Pitching Change: Dennis Santana replaces Joey Wentz.",
+        "playerID": "676356",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Yandy D\u00edaz grounds out, pitcher Dennis Santana to first baseman Enmanuel Valdez.",
+        "playerID": "650490",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Brandon Lowe singles on a ground ball to right fielder Jack Suwinski. Jonny DeLuca scores.",
+        "playerID": "664040",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Junior Caminero grounds into a double play, second baseman Jared Triolo to shortstop Isiah Kiner-Falefa to first baseman Enmanuel Valdez. Brandon Lowe out at 2nd. Junior Caminero out at 1st.",
+        "playerID": "691406",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Mason Montgomery replaces Mason Englert.",
+        "playerID": "663698",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Tommy Pham strikes out on a foul tip.",
+        "playerID": "502054",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Offensive Substitution: Pinch-hitter Andrew McCutchen replaces Enmanuel Valdez.",
+        "playerID": "457705",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ke'Bryan Hayes strikes out swinging.",
+        "playerID": "663647",
+        "inning": "Top 9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_NYM@MIA",
+    "allPlayByPlay": [
+      {
+        "result": "Groundout",
+        "description": "Francisco Lindor grounds out to first baseman Matt Mervis.",
+        "playerID": "596019",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Juan Soto grounds out, first baseman Matt Mervis to pitcher Sandy Alcantara.",
+        "playerID": "665742",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pete Alonso grounds out, third baseman Graham Pauley to first baseman Matt Mervis.",
+        "playerID": "624413",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Double",
+        "description": "Xavier Edwards doubles (2) on a line drive to right fielder Juan Soto.",
+        "playerID": "669364",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Home Run",
+        "description": "Kyle Stowers homers (1) on a fly ball to center field. Xavier Edwards scores.",
+        "playerID": "669065",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Otto Lopez grounds out, third baseman Mark Vientos to first baseman Pete Alonso.",
+        "playerID": "672640",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Matt Mervis grounds out, first baseman Pete Alonso to pitcher Kodai Senga.",
+        "playerID": "670223",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Griffin Conine flies out to left fielder Brandon Nimmo.",
+        "playerID": "665052",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Home Run",
+        "description": "Brandon Nimmo homers (2) on a fly ball to right center field.",
+        "playerID": "607043",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Mark Vientos grounds out, shortstop Xavier Edwards to first baseman Matt Mervis.",
+        "playerID": "668901",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jesse Winker strikes out swinging.",
+        "playerID": "608385",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luis Torrens grounds out, shortstop Xavier Edwards to first baseman Matt Mervis.",
+        "playerID": "620443",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jonah Bride strikes out swinging.",
+        "playerID": "681146",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Graham Pauley strikes out swinging.",
+        "playerID": "688363",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Field Error",
+        "description": "Dane Myers reaches on a fielding error by shortstop Francisco Lindor.",
+        "playerID": "667472",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Caught Stealing 2B",
+        "description": "Dane Myers caught stealing 2nd base, catcher Luis Torrens to second baseman Luisangel Acu\u00f1a.",
+        "playerID": "663743",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Double",
+        "description": "Luisangel Acu\u00f1a hits a ground-rule double (1) on a line drive down the right-field line.",
+        "playerID": "682668",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jose Siri grounds out, second baseman Otto Lopez to first baseman Matt Mervis. Luisangel Acu\u00f1a to 3rd.",
+        "playerID": "642350",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Francisco Lindor singles on a ground ball to center fielder Dane Myers. Luisangel Acu\u00f1a scores.",
+        "playerID": "596019",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Lineout",
+        "description": "Juan Soto lines out sharply to center fielder Dane Myers.",
+        "playerID": "665742",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Francisco Lindor steals (1) 2nd base.",
+        "playerID": "624413",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nick Fortes strikes out swinging.",
+        "playerID": "663743",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Xavier Edwards strikes out swinging.",
+        "playerID": "669364",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kyle Stowers strikes out swinging, catcher Luis Torrens to first baseman Pete Alonso.",
+        "playerID": "669065",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Brandon Nimmo called out on strikes.",
+        "playerID": "607043",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Mark Vientos grounds out, third baseman Graham Pauley to first baseman Matt Mervis.",
+        "playerID": "668901",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jesse Winker strikes out swinging.",
+        "playerID": "608385",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Field Error",
+        "description": "Otto Lopez reaches on a fielding error by shortstop Francisco Lindor.",
+        "playerID": "672640",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Mervis strikes out swinging.",
+        "playerID": "670223",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Forceout",
+        "description": "Griffin Conine grounds into a force out, second baseman Luisangel Acu\u00f1a to shortstop Francisco Lindor. Otto Lopez out at 2nd. Griffin Conine to 1st.",
+        "playerID": "665052",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Walk",
+        "description": "Jonah Bride walks. Griffin Conine to 2nd.",
+        "playerID": "681146",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Double",
+        "description": "Graham Pauley doubles (3) on a line drive to left fielder Brandon Nimmo. Griffin Conine scores. Jonah Bride scores.",
+        "playerID": "688363",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Dane Myers strikes out swinging.",
+        "playerID": "667472",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Luis Torrens strikes out swinging.",
+        "playerID": "620443",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luisangel Acu\u00f1a grounds out, second baseman Otto Lopez to first baseman Matt Mervis.",
+        "playerID": "682668",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jose Siri flies out to center fielder Dane Myers.",
+        "playerID": "642350",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nick Fortes grounds out, second baseman Luisangel Acu\u00f1a to first baseman Pete Alonso.",
+        "playerID": "663743",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Xavier Edwards grounds out softly, second baseman Luisangel Acu\u00f1a to first baseman Pete Alonso.",
+        "playerID": "669364",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kyle Stowers strikes out swinging.",
+        "playerID": "669065",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Ronny Henriquez replaces Sandy Alcantara.",
+        "playerID": "596019",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Juan Soto flies out to center fielder Dane Myers.",
+        "playerID": "665742",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pete Alonso grounds out, second baseman Otto Lopez to first baseman Matt Mervis.",
+        "playerID": "624413",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Max Kranick replaces Kodai Senga.",
+        "playerID": "672640",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Matt Mervis grounds out, second baseman Luisangel Acu\u00f1a to first baseman Pete Alonso.",
+        "playerID": "670223",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Griffin Conine strikes out on a foul tip.",
+        "playerID": "665052",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Brandon Nimmo called out on strikes.",
+        "playerID": "607043",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Mark Vientos flies out to center fielder Dane Myers.",
+        "playerID": "668901",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Jesse Winker singles on a ground ball to first baseman Matt Mervis.",
+        "playerID": "608385",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Luis Torrens flies out sharply to center fielder Dane Myers.",
+        "playerID": "620443",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jonah Bride grounds out, second baseman Luisangel Acu\u00f1a to first baseman Pete Alonso.",
+        "playerID": "681146",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Graham Pauley flies out to left fielder Brandon Nimmo.",
+        "playerID": "688363",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Dane Myers pops out to first baseman Pete Alonso in foul territory.",
+        "playerID": "667472",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Lake Bachar replaces Ronny Henriquez.",
+        "playerID": "683146",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jose Siri grounds out softly, shortstop Xavier Edwards to first baseman Matt Mervis.",
+        "playerID": "642350",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Francisco Lindor grounds out, second baseman Otto Lopez to first baseman Matt Mervis.",
+        "playerID": "596019",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Brett Baty remains in the game as the second baseman.",
+        "playerID": "663743",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Lineout",
+        "description": "Xavier Edwards lines out to shortstop Francisco Lindor.",
+        "playerID": "669364",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Kyle Stowers grounds out, shortstop Francisco Lindor to first baseman Pete Alonso.",
+        "playerID": "669065",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Anthony Veneziano replaces Lake Bachar.",
+        "playerID": "665742",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Forceout",
+        "description": "Pete Alonso grounds into a force out, third baseman Graham Pauley to second baseman Otto Lopez. Juan Soto out at 2nd. Pete Alonso to 1st.",
+        "playerID": "624413",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Brandon Nimmo singles on a ground ball to center fielder Dane Myers. Pete Alonso to 2nd.",
+        "playerID": "607043",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Anthony Bender replaces Anthony Veneziano.",
+        "playerID": "668901",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jesse Winker grounds out to first baseman Matt Mervis.",
+        "playerID": "608385",
+        "inning": "Top 9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_SF@HOU",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "LaMonte Wade Jr. strikes out swinging.",
+        "playerID": "664774",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Willy Adames flies out to right fielder Cam Smith.",
+        "playerID": "642715",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Lineout",
+        "description": "Jung Hoo Lee lines out to second baseman Brendan Rodgers.",
+        "playerID": "808982",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jose Altuve flies out to left fielder Heliot Ramos.",
+        "playerID": "514888",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Isaac Paredes grounds out, shortstop Willy Adames to first baseman LaMonte Wade Jr.",
+        "playerID": "670623",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Yordan Alvarez strikes out swinging.",
+        "playerID": "670541",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Matt Chapman pops out to shortstop Jeremy Pe\u00f1a.",
+        "playerID": "656305",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Heliot Ramos strikes out swinging.",
+        "playerID": "671218",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Walk",
+        "description": "Mike Yastrzemski walks.",
+        "playerID": "573262",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Wilmer Flores flies out to right fielder Cam Smith.",
+        "playerID": "527038",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Single",
+        "description": "Christian Walker singles on a line drive to left fielder Heliot Ramos.",
+        "playerID": "572233",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Yainer Diaz grounds into a double play, shortstop Willy Adames to second baseman Christian Koss to first baseman LaMonte Wade Jr. Christian Walker out at 2nd. Yainer Diaz out at 1st.",
+        "playerID": "673237",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jeremy Pe\u00f1a grounds out, pitcher Logan Webb to shortstop Willy Adames to first baseman LaMonte Wade Jr.",
+        "playerID": "665161",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Walk",
+        "description": "Patrick Bailey walks.",
+        "playerID": "672275",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Christian Koss walks. Patrick Bailey to 2nd.",
+        "playerID": "683766",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "LaMonte Wade Jr. strikes out swinging.",
+        "playerID": "664774",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Double",
+        "description": "Willy Adames doubles (1) on a line drive to left fielder Jose Altuve. Patrick Bailey scores. Christian Koss scores.",
+        "playerID": "642715",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jung Hoo Lee grounds out, second baseman Brendan Rodgers to first baseman Christian Walker. Willy Adames to 3rd.",
+        "playerID": "808982",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Chapman strikes out swinging.",
+        "playerID": "656305",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Cam Smith singles on a ground ball to right fielder Mike Yastrzemski.",
+        "playerID": "701358",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Brendan Rodgers strikes out swinging.",
+        "playerID": "663898",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Chas McCormick grounds into a double play, second baseman Christian Koss to shortstop Willy Adames to first baseman LaMonte Wade Jr. Cam Smith out at 2nd. Chas McCormick out at 1st.",
+        "playerID": "676801",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Home Run",
+        "description": "Heliot Ramos homers (3) on a line drive to left field.",
+        "playerID": "671218",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Mike Yastrzemski strikes out swinging.",
+        "playerID": "573262",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Wilmer Flores hit by pitch.",
+        "playerID": "527038",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Patrick Bailey flies out to right fielder Cam Smith.",
+        "playerID": "672275",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Christian Koss grounds out, third baseman Isaac Paredes to first baseman Christian Walker.",
+        "playerID": "683766",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Home Run",
+        "description": "Jose Altuve homers (1) on a line drive to left field.",
+        "playerID": "514888",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Isaac Paredes strikes out swinging.",
+        "playerID": "670623",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Yordan Alvarez grounds out, second baseman Christian Koss to pitcher Logan Webb.",
+        "playerID": "670541",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Christian Walker flies out to center fielder Jung Hoo Lee.",
+        "playerID": "572233",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "LaMonte Wade Jr. strikes out swinging.",
+        "playerID": "664774",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Willy Adames flies out to center fielder Chas McCormick.",
+        "playerID": "642715",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jung Hoo Lee flies out to left fielder Jose Altuve.",
+        "playerID": "808982",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Yainer Diaz strikes out swinging.",
+        "playerID": "673237",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jeremy Pe\u00f1a grounds out, shortstop Willy Adames to first baseman LaMonte Wade Jr.",
+        "playerID": "665161",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Cam Smith grounds out, shortstop Willy Adames to first baseman LaMonte Wade Jr.",
+        "playerID": "701358",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Tayler Scott replaces Hayden Wesneski.",
+        "playerID": "656305",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Heliot Ramos grounds out, shortstop Jeremy Pe\u00f1a to first baseman Christian Walker.",
+        "playerID": "671218",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Mike Yastrzemski singles on a ground ball to right fielder Cam Smith.",
+        "playerID": "573262",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Wilmer Flores grounds out, second baseman Brendan Rodgers to first baseman Christian Walker.",
+        "playerID": "527038",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Brendan Rodgers flies out to center fielder Jung Hoo Lee.",
+        "playerID": "663898",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Chas McCormick singles on a line drive to right fielder Mike Yastrzemski.",
+        "playerID": "676801",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Jose Altuve grounds into a double play, third baseman Matt Chapman to second baseman Christian Koss to first baseman LaMonte Wade Jr. Chas McCormick out at 2nd. Jose Altuve out at 1st.",
+        "playerID": "514888",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Patrick Bailey walks.",
+        "playerID": "672275",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Christian Koss strikes out swinging.",
+        "playerID": "683766",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Steven Okert replaces Tayler Scott.",
+        "playerID": "669477",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Willy Adames pops out to shortstop Jeremy Pe\u00f1a.",
+        "playerID": "642715",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Casey Schmitt remains in the game as the first baseman.",
+        "playerID": "670623",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Yordan Alvarez strikes out swinging.",
+        "playerID": "670541",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Christian Walker strikes out swinging.",
+        "playerID": "572233",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Wild pitch by pitcher Logan Webb. Isaac Paredes to 2nd.",
+        "playerID": "673237",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Double",
+        "description": "Jung Hoo Lee doubles (3) on a sharp fly ball to center fielder Chas McCormick.",
+        "playerID": "808982",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Chapman strikes out swinging.",
+        "playerID": "656305",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Heliot Ramos grounds out, shortstop Jeremy Pe\u00f1a to first baseman Christian Walker. Jung Hoo Lee to 3rd.",
+        "playerID": "671218",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Mike Yastrzemski strikes out swinging.",
+        "playerID": "573262",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Tyler Rogers replaces Logan Webb.",
+        "playerID": "665161",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Cam Smith strikes out swinging.",
+        "playerID": "701358",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Brendan Rodgers singles on a ground ball to left fielder Heliot Ramos.",
+        "playerID": "663898",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Offensive Substitution: Pinch-hitter Victor Caratini replaces Chas McCormick.",
+        "playerID": "605170",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Offensive Substitution: Pinch-runner Jake Meyers replaces Victor Caratini.",
+        "playerID": "514888",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jake Meyers remains in the game as the center fielder.",
+        "playerID": "527038",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Patrick Bailey called out on strikes.",
+        "playerID": "672275",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Field Error",
+        "description": "Christian Koss reaches on a fielding error by pitcher Bryan King.",
+        "playerID": "683766",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Casey Schmitt called out on strikes.",
+        "playerID": "669477",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Lineout",
+        "description": "Pitching Change: Ryan Walker replaces Tyler Rogers.",
+        "playerID": "670623",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Yordan Alvarez pops out to second baseman Christian Koss.",
+        "playerID": "670541",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Christian Walker grounds out, shortstop Willy Adames to first baseman Casey Schmitt.",
+        "playerID": "572233",
+        "inning": "Bottom  9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_CHC@OAK",
+    "allPlayByPlay": [
+      {
+        "result": "Field Error",
+        "description": "Ian Happ reaches on a throwing error by second baseman Max Muncy.",
+        "playerID": "664023",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Walk",
+        "description": "Kyle Tucker walks. Ian Happ to 2nd.",
+        "playerID": "663656",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Home Run",
+        "description": "Seiya Suzuki homers (2) on a fly ball to center field. Ian Happ scores. Kyle Tucker scores.",
+        "playerID": "673548",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Michael Busch grounds out, first baseman Tyler Soderstrom to pitcher Luis Severino.",
+        "playerID": "683737",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Dansby Swanson pops out to first baseman Tyler Soderstrom.",
+        "playerID": "621020",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nico Hoerner grounds out, third baseman Gio Urshela to first baseman Tyler Soderstrom.",
+        "playerID": "663538",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Lawrence Butler singles on a line drive to left fielder Ian Happ.",
+        "playerID": "671732",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Home Run",
+        "description": "Brent Rooker homers (2) on a fly ball to left field. Lawrence Butler scores.",
+        "playerID": "667670",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "JJ Bleday grounds out, second baseman Nico Hoerner to first baseman Michael Busch.",
+        "playerID": "668709",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Single",
+        "description": "Shea Langeliers singles on a soft line drive to right fielder Kyle Tucker.",
+        "playerID": "669127",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Single",
+        "description": "Miguel Andujar singles on a line drive to left fielder Ian Happ, deflected by shortstop Dansby Swanson. Shea Langeliers to 2nd.",
+        "playerID": "609280",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Tyler Soderstrom pops out to second baseman Nico Hoerner on the infield fly rule.",
+        "playerID": "691016",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Gio Urshela grounds out, second baseman Nico Hoerner to first baseman Michael Busch.",
+        "playerID": "570482",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pete Crow-Armstrong strikes out swinging.",
+        "playerID": "691718",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Shaw strikes out on a foul tip.",
+        "playerID": "807713",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Miguel Amaya pops out to third baseman Gio Urshela in foul territory.",
+        "playerID": "665804",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Max Muncy strikes out swinging.",
+        "playerID": "691777",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jacob Wilson grounds out, second baseman Nico Hoerner to first baseman Michael Busch.",
+        "playerID": "805779",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Lawrence Butler flies out to center fielder Pete Crow-Armstrong.",
+        "playerID": "671732",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ian Happ grounds out, second baseman Max Muncy to first baseman Tyler Soderstrom.",
+        "playerID": "664023",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Home Run",
+        "description": "Kyle Tucker homers (4) on a fly ball to right center field.",
+        "playerID": "663656",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Seiya Suzuki singles on a line drive to left fielder Miguel Andujar.",
+        "playerID": "673548",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Forceout",
+        "description": "Michael Busch grounds into a force out, second baseman Max Muncy to shortstop Jacob Wilson. Seiya Suzuki out at 2nd. Michael Busch to 1st.",
+        "playerID": "683737",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Double",
+        "description": "Dansby Swanson doubles (3) on a sharp line drive to center fielder JJ Bleday. Michael Busch scores.",
+        "playerID": "621020",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Lineout",
+        "description": "Nico Hoerner lines out to third baseman Gio Urshela.",
+        "playerID": "663538",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Brent Rooker walks.",
+        "playerID": "667670",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "JJ Bleday flies out sharply to center fielder Pete Crow-Armstrong. Brent Rooker to 2nd.",
+        "playerID": "668709",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Home Run",
+        "description": "Shea Langeliers homers (2) on a fly ball to left field. Brent Rooker scores.",
+        "playerID": "669127",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Miguel Andujar strikes out swinging.",
+        "playerID": "609280",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Tyler Soderstrom grounds out, second baseman Nico Hoerner to first baseman Michael Busch.",
+        "playerID": "691016",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Single",
+        "description": "Pete Crow-Armstrong singles on a line drive to left fielder Miguel Andujar.",
+        "playerID": "691718",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Walk",
+        "description": "Matt Shaw walks. Pete Crow-Armstrong to 2nd.",
+        "playerID": "807713",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Single",
+        "description": "Miguel Amaya singles on a fly ball to left fielder Miguel Andujar. Pete Crow-Armstrong to 3rd. Matt Shaw to 2nd.",
+        "playerID": "665804",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Sac Fly",
+        "description": "Ian Happ out on a sacrifice fly to center fielder JJ Bleday. Pete Crow-Armstrong scores. Matt Shaw to 3rd. Miguel Amaya to 2nd.",
+        "playerID": "664023",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Intent Walk",
+        "description": "Luis Severino intentionally walks Kyle Tucker.",
+        "playerID": "663656",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Seiya Suzuki strikes out swinging.",
+        "playerID": "673548",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Michael Busch strikes out swinging.",
+        "playerID": "683737",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Lineout",
+        "description": "Gio Urshela lines out sharply to pitcher Justin Steele.",
+        "playerID": "570482",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Max Muncy called out on strikes.",
+        "playerID": "691777",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Jacob Wilson singles on a line drive to center fielder Pete Crow-Armstrong.",
+        "playerID": "805779",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Lawrence Butler grounds out, second baseman Nico Hoerner to first baseman Michael Busch.",
+        "playerID": "671732",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Dansby Swanson grounds out, shortstop Jacob Wilson to first baseman Tyler Soderstrom.",
+        "playerID": "621020",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Nico Hoerner flies out to center fielder JJ Bleday.",
+        "playerID": "663538",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Lineout",
+        "description": "Pete Crow-Armstrong lines out to right fielder Lawrence Butler.",
+        "playerID": "691718",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Brent Rooker flies out sharply to right fielder Kyle Tucker.",
+        "playerID": "667670",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "JJ Bleday singles on a fly ball to left fielder Ian Happ.",
+        "playerID": "668709",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Forceout",
+        "description": "Shea Langeliers grounds into a force out, shortstop Dansby Swanson to second baseman Nico Hoerner. JJ Bleday out at 2nd. Shea Langeliers to 1st.",
+        "playerID": "669127",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Miguel Andujar strikes out swinging.",
+        "playerID": "609280",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Shaw strikes out swinging.",
+        "playerID": "807713",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Miguel Amaya strikes out swinging.",
+        "playerID": "665804",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Lineout",
+        "description": "Ian Happ lines out to left fielder Miguel Andujar.",
+        "playerID": "664023",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Tyler Soderstrom grounds out, first baseman Michael Busch to pitcher Justin Steele.",
+        "playerID": "691016",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Gio Urshela strikes out swinging.",
+        "playerID": "570482",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Max Muncy strikes out on a foul tip.",
+        "playerID": "691777",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Double",
+        "description": "Pitching Change: T.J. McFarland replaces Luis Severino.",
+        "playerID": "663656",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Seiya Suzuki flies out to right fielder Lawrence Butler. Kyle Tucker to 3rd.",
+        "playerID": "673548",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Offensive Substitution: Pinch-hitter Justin Turner replaces Michael Busch.",
+        "playerID": "457759",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Pitching Change: Tyler Ferguson replaces T.J. McFarland.",
+        "playerID": "621020",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Nico Hoerner singles on a ground ball to center fielder JJ Bleday, deflected by second baseman Max Muncy. Justin Turner to 3rd.",
+        "playerID": "663538",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Nico Hoerner steals (1) 2nd base.",
+        "playerID": "691718",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Justin Turner remains in the game as the first baseman.",
+        "playerID": "805779",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Lawrence Butler pops out to second baseman Nico Hoerner.",
+        "playerID": "671732",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Julian Merryweather replaces Justin Steele.",
+        "playerID": "667670",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Shaw strikes out swinging.",
+        "playerID": "807713",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Miguel Amaya flies out to left fielder Miguel Andujar.",
+        "playerID": "665804",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Justin Sterner replaces Tyler Ferguson.",
+        "playerID": "664023",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Porter Hodge replaces Julian Merryweather.",
+        "playerID": "668709",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Shea Langeliers grounds into a double play, second baseman Nico Hoerner to shortstop Dansby Swanson to first baseman Justin Turner. JJ Bleday out at 2nd. Shea Langeliers out at 1st.",
+        "playerID": "669127",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Miguel Andujar flies out to left fielder Ian Happ.",
+        "playerID": "609280",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kyle Tucker called out on strikes.",
+        "playerID": "663656",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Seiya Suzuki flies out to center fielder JJ Bleday.",
+        "playerID": "673548",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Justin Turner pops out to second baseman Max Muncy.",
+        "playerID": "457759",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Ryan Pressly replaces Porter Hodge.",
+        "playerID": "691016",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Gio Urshela flies out to center fielder Pete Crow-Armstrong.",
+        "playerID": "570482",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Offensive Substitution: Pinch-hitter Seth Brown replaces Max Muncy.",
+        "playerID": "664913",
+        "inning": "Bottom  9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_ATL@LAD",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "Michael Harris II called out on strikes.",
+        "playerID": "671739",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Austin Riley strikes out swinging.",
+        "playerID": "663586",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Olson called out on strikes.",
+        "playerID": "621566",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Shohei Ohtani grounds out sharply, second baseman Ozzie Albies to first baseman Matt Olson.",
+        "playerID": "660271",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Mookie Betts strikes out swinging.",
+        "playerID": "605141",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Lineout",
+        "description": "Tommy Edman lines out to left fielder Bryan De La Cruz.",
+        "playerID": "669242",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Single",
+        "description": "Marcell Ozuna singles on a sharp line drive to right fielder Teoscar Hern\u00e1ndez.",
+        "playerID": "542303",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ozzie Albies strikes out swinging.",
+        "playerID": "645277",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Walk",
+        "description": "Drake Baldwin walks. Marcell Ozuna to 2nd.",
+        "playerID": "686948",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Forceout",
+        "description": "Bryan De La Cruz grounds into a force out, second baseman Tommy Edman to shortstop Mookie Betts. Marcell Ozuna scores. Drake Baldwin out at 2nd. Throwing error by shortstop Mookie Betts.",
+        "playerID": "650559",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jarred Kelenic grounds out, second baseman Tommy Edman to first baseman Enrique Hern\u00e1ndez.",
+        "playerID": "672284",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Single",
+        "description": "Injury Delay.",
+        "playerID": "606192",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Will Smith hit by pitch. Teoscar Hern\u00e1ndez to 2nd.",
+        "playerID": "669257",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Enrique Hern\u00e1ndez strikes out swinging.",
+        "playerID": "571771",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Miguel Rojas flies out to center fielder Michael Harris II.",
+        "playerID": "500743",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Andy Pages grounds out, shortstop Nick Allen to first baseman Matt Olson.",
+        "playerID": "681624",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Nick Allen grounds out, shortstop Mookie Betts to first baseman Enrique Hern\u00e1ndez.",
+        "playerID": "669397",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Michael Harris II grounds out to first baseman Enrique Hern\u00e1ndez.",
+        "playerID": "671739",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Austin Riley flies out to right fielder Teoscar Hern\u00e1ndez.",
+        "playerID": "663586",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Chris Taylor flies out to first baseman Matt Olson in foul territory.",
+        "playerID": "621035",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Shohei Ohtani grounds out sharply, shortstop Nick Allen to first baseman Matt Olson.",
+        "playerID": "660271",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Mookie Betts hit by pitch.",
+        "playerID": "605141",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Tommy Edman flies out to first baseman Matt Olson in foul territory.",
+        "playerID": "669242",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt Olson called out on strikes.",
+        "playerID": "621566",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Walk",
+        "description": "Marcell Ozuna walks.",
+        "playerID": "542303",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ozzie Albies grounds out, second baseman Tommy Edman to first baseman Enrique Hern\u00e1ndez. Marcell Ozuna to 2nd.",
+        "playerID": "645277",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Drake Baldwin flies out sharply to left fielder Chris Taylor.",
+        "playerID": "686948",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Teoscar Hern\u00e1ndez flies out to center fielder Michael Harris II.",
+        "playerID": "606192",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Will Smith called out on strikes.",
+        "playerID": "669257",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Enrique Hern\u00e1ndez flies out to right fielder Jarred Kelenic.",
+        "playerID": "571771",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Walk",
+        "description": "Bryan De La Cruz walks.",
+        "playerID": "650559",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jarred Kelenic strikes out swinging.",
+        "playerID": "672284",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Nick Allen grounds into a double play, shortstop Mookie Betts to second baseman Tommy Edman to first baseman Enrique Hern\u00e1ndez. Bryan De La Cruz out at 2nd. Nick Allen out at 1st.",
+        "playerID": "669397",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Miguel Rojas strikes out swinging.",
+        "playerID": "500743",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Andy Pages pops out to second baseman Ozzie Albies.",
+        "playerID": "681624",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Chris Taylor strikes out swinging.",
+        "playerID": "621035",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Anthony Banda replaces Dustin May.",
+        "playerID": "671739",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Austin Riley strikes out swinging.",
+        "playerID": "663586",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Double",
+        "description": "Matt Olson doubles (2) on a sharp fly ball to center fielder Andy Pages.",
+        "playerID": "621566",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Marcell Ozuna walks.",
+        "playerID": "542303",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Forceout",
+        "description": "Ozzie Albies grounds into a force out, shortstop Mookie Betts to second baseman Tommy Edman. Marcell Ozuna out at 2nd.",
+        "playerID": "645277",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Shohei Ohtani singles on a line drive to right fielder Jarred Kelenic.",
+        "playerID": "660271",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Home Run",
+        "description": "Mookie Betts homers (3) on a fly ball to left field. Shohei Ohtani scores.",
+        "playerID": "605141",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Tommy Edman singles on a line drive to center fielder Michael Harris II.",
+        "playerID": "669242",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Pierce Johnson replaces Chris Sale.",
+        "playerID": "606192",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Will Smith singles on a ground ball to center fielder Michael Harris II. Tommy Edman scores.",
+        "playerID": "669257",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Will Smith steals (1) 2nd base.",
+        "playerID": "571771",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Miguel Rojas grounds out, third baseman Austin Riley to first baseman Matt Olson.",
+        "playerID": "500743",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Alex Vesia replaces Anthony Banda.",
+        "playerID": "686948",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Bryan De La Cruz called out on strikes.",
+        "playerID": "650559",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Offensive Substitution: Pinch-hitter Eli White replaces Jarred Kelenic.",
+        "playerID": "642201",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Eli White remains in the game as the right fielder.",
+        "playerID": "681624",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Chris Taylor grounds out, third baseman Austin Riley to first baseman Matt Olson.",
+        "playerID": "621035",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Shohei Ohtani grounds out, second baseman Ozzie Albies to first baseman Matt Olson.",
+        "playerID": "660271",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Blake Treinen replaces Alex Vesia.",
+        "playerID": "669397",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Michael Harris II flies out to right fielder Teoscar Hern\u00e1ndez.",
+        "playerID": "671739",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nick Allen steals (1) 2nd base.",
+        "playerID": "663586",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Matt Olson grounds out, second baseman Tommy Edman to first baseman Enrique Hern\u00e1ndez.",
+        "playerID": "621566",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Daysbel Hern\u00e1ndez replaces Dylan Lee.",
+        "playerID": "605141",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Bunt Groundout",
+        "description": "Tommy Edman bunt grounds out softly, pitcher Daysbel Hern\u00e1ndez to first baseman Matt Olson.",
+        "playerID": "669242",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Teoscar Hern\u00e1ndez grounds out softly, shortstop Nick Allen to first baseman Matt Olson.",
+        "playerID": "606192",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Tanner Scott replaces Blake Treinen.",
+        "playerID": "542303",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ozzie Albies grounds out to first baseman Enrique Hern\u00e1ndez.",
+        "playerID": "645277",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Drake Baldwin grounds out to first baseman Enrique Hern\u00e1ndez.",
+        "playerID": "686948",
+        "inning": "Top 9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_TEX@CIN",
+    "allPlayByPlay": [
+      {
+        "result": "Groundout",
+        "description": "Marcus Semien grounds out sharply, shortstop Elly De La Cruz to first baseman Jeimer Candelario.",
+        "playerID": "543760",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Corey Seager flies out to left fielder Blake Dunn.",
+        "playerID": "608369",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Home Run",
+        "description": "Wyatt Langford homers (2) on a fly ball to left field.",
+        "playerID": "694671",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Double",
+        "description": "Joc Pederson doubles (1) on a sharp line drive to center fielder TJ Friedl.",
+        "playerID": "592626",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Adolis Garc\u00eda grounds out sharply, shortstop Elly De La Cruz to first baseman Jeimer Candelario.",
+        "playerID": "666969",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Lineout",
+        "description": "TJ Friedl lines out to center fielder Leody Taveras.",
+        "playerID": "670770",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Matt McLain grounds out, third baseman Josh Smith to first baseman Jake Burger.",
+        "playerID": "680574",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Elly De La Cruz grounds out, first baseman Jake Burger to pitcher Nathan Eovaldi.",
+        "playerID": "682829",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jake Burger strikes out swinging.",
+        "playerID": "669394",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Josh Smith strikes out on a foul tip.",
+        "playerID": "669701",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Kyle Higashioka pops out to first baseman Jeimer Candelario in foul territory.",
+        "playerID": "543309",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Gavin Lux grounds out, first baseman Jake Burger to pitcher Nathan Eovaldi.",
+        "playerID": "666158",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jeimer Candelario grounds out sharply, first baseman Jake Burger to pitcher Nathan Eovaldi.",
+        "playerID": "600869",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Santiago Espinal grounds out, third baseman Josh Smith to first baseman Jake Burger.",
+        "playerID": "669289",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Leody Taveras strikes out swinging.",
+        "playerID": "665750",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Marcus Semien grounds out, third baseman Santiago Espinal to first baseman Jeimer Candelario.",
+        "playerID": "543760",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Corey Seager walks.",
+        "playerID": "608369",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Wyatt Langford singles on a line drive to right fielder Jake Fraley. Wyatt Langford out at 2nd on the throw, right fielder Jake Fraley to shortstop Elly De La Cruz. Corey Seager to 2nd.",
+        "playerID": "694671",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Injury Delay.",
+        "playerID": "641584",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Blake Dunn strikes out swinging.",
+        "playerID": "694362",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Austin Wynns strikes out swinging.",
+        "playerID": "642851",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Joc Pederson grounds out, shortstop Elly De La Cruz to first baseman Jeimer Candelario.",
+        "playerID": "592626",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Adolis Garc\u00eda flies out to left fielder Blake Dunn.",
+        "playerID": "666969",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Lineout",
+        "description": "Jake Burger lines out sharply to center fielder TJ Friedl.",
+        "playerID": "669394",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "TJ Friedl strikes out swinging.",
+        "playerID": "670770",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Matt McLain called out on strikes.",
+        "playerID": "680574",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Elly De La Cruz grounds out, second baseman Marcus Semien to first baseman Jake Burger.",
+        "playerID": "682829",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Josh Smith grounds out, first baseman Jeimer Candelario to pitcher Carson Spiers.",
+        "playerID": "669701",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Walk",
+        "description": "Kyle Higashioka walks.",
+        "playerID": "543309",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Leody Taveras pops out softly to pitcher Carson Spiers in foul territory.",
+        "playerID": "665750",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Marcus Semien strikes out swinging.",
+        "playerID": "543760",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Single",
+        "description": "Gavin Lux singles on a line drive to right fielder Adolis Garc\u00eda.",
+        "playerID": "666158",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jeimer Candelario strikes out swinging.",
+        "playerID": "600869",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Santiago Espinal grounds into a double play, third baseman Josh Smith to second baseman Marcus Semien to first baseman Jake Burger. Gavin Lux out at 2nd. Santiago Espinal out at 1st.",
+        "playerID": "669289",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Corey Seager grounds out, second baseman Matt McLain to first baseman Jeimer Candelario.",
+        "playerID": "608369",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Wyatt Langford flies out sharply to left fielder Blake Dunn.",
+        "playerID": "694671",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Joc Pederson hit by pitch.",
+        "playerID": "592626",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Adolis Garc\u00eda strikes out swinging.",
+        "playerID": "666969",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jake Fraley strikes out swinging.",
+        "playerID": "641584",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Blake Dunn grounds out, shortstop Corey Seager to first baseman Jake Burger.",
+        "playerID": "694362",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Austin Wynns singles on a line drive to right fielder Adolis Garc\u00eda.",
+        "playerID": "642851",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "TJ Friedl strikes out swinging.",
+        "playerID": "670770",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Scott Barlow replaces Carson Spiers.",
+        "playerID": "669394",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Josh Smith singles on a line drive to right fielder Jake Fraley.",
+        "playerID": "669701",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Walk",
+        "description": "Kyle Higashioka walks. Josh Smith to 2nd.",
+        "playerID": "543309",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Leody Taveras flies out to left fielder Blake Dunn.",
+        "playerID": "665750",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Forceout",
+        "description": "Marcus Semien grounds into a force out, third baseman Santiago Espinal to second baseman Matt McLain. Kyle Higashioka out at 2nd.",
+        "playerID": "543760",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Single",
+        "description": "Matt McLain singles on a line drive to left fielder Wyatt Langford.",
+        "playerID": "680574",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Elly De La Cruz grounds out, second baseman Marcus Semien to first baseman Jake Burger. Matt McLain to 2nd.",
+        "playerID": "682829",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Gavin Lux grounds out, second baseman Marcus Semien to first baseman Jake Burger. Matt McLain to 3rd.",
+        "playerID": "666158",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Jeimer Candelario flies out to left fielder Wyatt Langford.",
+        "playerID": "600869",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Pitching Change: Taylor Rogers replaces Scott Barlow.",
+        "playerID": "608369",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Wyatt Langford flies out sharply to center fielder TJ Friedl.",
+        "playerID": "694671",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Walk",
+        "description": "Joc Pederson walks.",
+        "playerID": "592626",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Ian Gibaut replaces Taylor Rogers.",
+        "playerID": "666969",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Santiago Espinal grounds out, shortstop Corey Seager to first baseman Jake Burger.",
+        "playerID": "669289",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jake Fraley pops out to second baseman Marcus Semien.",
+        "playerID": "641584",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Blake Dunn grounds out, shortstop Corey Seager to first baseman Jake Burger.",
+        "playerID": "694362",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jake Burger strikes out swinging.",
+        "playerID": "669394",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Field Error",
+        "description": "Josh Smith reaches on a fielding error by shortstop Elly De La Cruz.",
+        "playerID": "669701",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Rangers challenged (tag play), call on the field was overturned: Josh Smith steals (1) 2nd base.",
+        "playerID": "543309",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Leody Taveras grounds out, shortstop Elly De La Cruz to first baseman Jeimer Candelario.",
+        "playerID": "665750",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Offensive Substitution: Pinch-hitter Jacob Hurtubise replaces Austin Wynns.",
+        "playerID": "674441",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Forceout",
+        "description": "TJ Friedl ground bunts into a force out, catcher Kyle Higashioka to shortstop Corey Seager. Jacob Hurtubise out at 2nd. TJ Friedl to 1st.",
+        "playerID": "670770",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Lineout",
+        "description": "Matt McLain lines out sharply to center fielder Leody Taveras.",
+        "playerID": "680574",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Wild pitch by pitcher Nathan Eovaldi. TJ Friedl to 2nd.",
+        "playerID": "682829",
+        "inning": "Bottom  9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_CLE@SD",
+    "allPlayByPlay": [
+      {
+        "result": "Walk",
+        "description": "Steven Kwan walks.",
+        "playerID": "680757",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Jos\u00e9 Ram\u00edrez pops out to third baseman Manny Machado.",
+        "playerID": "608070",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Kyle Manzardo strikes out swinging.",
+        "playerID": "700932",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Carlos Santana called out on strikes.",
+        "playerID": "467793",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Walk",
+        "description": "Fernando Tatis Jr. walks.",
+        "playerID": "665487",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Forceout",
+        "description": "Luis Arraez bunt pops into a force out, third baseman Jos\u00e9 Ram\u00edrez to shortstop Brayan Rocchio. Fernando Tatis Jr. out at 2nd. Luis Arraez to 1st.",
+        "playerID": "650333",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Manny Machado grounds into a double play, third baseman Jos\u00e9 Ram\u00edrez to second baseman Gabriel Arias to first baseman Carlos Santana. Luis Arraez out at 2nd. Manny Machado out at 1st.",
+        "playerID": "592518",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nolan Jones strikes out swinging.",
+        "playerID": "666134",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Bo Naylor strikes out swinging.",
+        "playerID": "666310",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Gabriel Arias strikes out swinging.",
+        "playerID": "672356",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Single",
+        "description": "Xander Bogaerts singles on a ground ball to right fielder Nolan Jones, deflected by second baseman Gabriel Arias.",
+        "playerID": "593428",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Jackson Merrill grounds into a double play, shortstop Brayan Rocchio to first baseman Carlos Santana. Xander Bogaerts out at 2nd. Jackson Merrill out at 1st.",
+        "playerID": "701538",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Yuli Gurriel pops out to first baseman Carlos Santana.",
+        "playerID": "493329",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Daniel Schneemann called out on strikes.",
+        "playerID": "682177",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Brayan Rocchio flies out to left fielder Brandon Lockridge.",
+        "playerID": "677587",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Single",
+        "description": "Steven Kwan singles on a line drive to left fielder Brandon Lockridge.",
+        "playerID": "680757",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Jos\u00e9 Ram\u00edrez hit by pitch. Steven Kwan to 2nd.",
+        "playerID": "608070",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Kyle Manzardo flies out to right fielder Fernando Tatis Jr.",
+        "playerID": "700932",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Jose Iglesias walks.",
+        "playerID": "578428",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Double",
+        "description": "Brandon Lockridge doubles (2) on a ground ball to left fielder Steven Kwan. Jose Iglesias to 3rd.",
+        "playerID": "663604",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Elias D\u00edaz grounds out to first baseman Carlos Santana.",
+        "playerID": "553869",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Fielders Choice Out",
+        "description": "Fernando Tatis Jr. reaches on a fielder's choice out, shortstop Brayan Rocchio to catcher Bo Naylor. Jose Iglesias out at home.",
+        "playerID": "665487",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luis Arraez grounds out, second baseman Gabriel Arias to first baseman Carlos Santana.",
+        "playerID": "650333",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Carlos Santana pops out to catcher Elias D\u00edaz in foul territory.",
+        "playerID": "467793",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nolan Jones called out on strikes.",
+        "playerID": "666134",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Bo Naylor strikes out swinging.",
+        "playerID": "666310",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Single",
+        "description": "Manny Machado singles on a sharp line drive to left fielder Steven Kwan.",
+        "playerID": "592518",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Xander Bogaerts grounds into a double play, shortstop Brayan Rocchio to second baseman Gabriel Arias to first baseman Carlos Santana. Manny Machado out at 2nd. Xander Bogaerts out at 1st.",
+        "playerID": "593428",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Home Run",
+        "description": "Jackson Merrill homers (1) on a fly ball to center field.",
+        "playerID": "701538",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Yuli Gurriel flies out to left fielder Steven Kwan.",
+        "playerID": "493329",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Gabriel Arias singles on a line drive to center fielder Jackson Merrill.",
+        "playerID": "672356",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Daniel Schneemann strikes out swinging.",
+        "playerID": "682177",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Brayan Rocchio strikes out swinging.",
+        "playerID": "677587",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Steven Kwan called out on strikes.",
+        "playerID": "680757",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Single",
+        "description": "Jose Iglesias singles on a ground ball to shortstop Brayan Rocchio.",
+        "playerID": "578428",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Walk",
+        "description": "Wild pitch by pitcher Logan Allen. Jose Iglesias to 2nd.",
+        "playerID": "663604",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Sac Bunt",
+        "description": "Elias D\u00edaz out on a sacrifice bunt to first baseman Carlos Santana. Jose Iglesias to 3rd. Brandon Lockridge to 2nd.",
+        "playerID": "553869",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Sac Fly",
+        "description": "Fernando Tatis Jr. out on a sacrifice fly to center fielder Daniel Schneemann. Jose Iglesias scores. Brandon Lockridge to 3rd.",
+        "playerID": "665487",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "Luis Arraez singles on a line drive to left fielder Steven Kwan. Brandon Lockridge scores.",
+        "playerID": "650333",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "Manny Machado singles on a line drive to left fielder Steven Kwan. Luis Arraez out at 3rd on the throw, left fielder Steven Kwan to third baseman Jos\u00e9 Ram\u00edrez.",
+        "playerID": "592518",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Pitching Change: Jeremiah Estrada replaces Michael King.",
+        "playerID": "608070",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Kyle Manzardo pops out to first baseman Luis Arraez in foul territory.",
+        "playerID": "700932",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Carlos Santana pops out to second baseman Jose Iglesias.",
+        "playerID": "467793",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Xander Bogaerts strikes out swinging.",
+        "playerID": "593428",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Jackson Merrill walks.",
+        "playerID": "701538",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Wild pitch by pitcher Logan Allen. Jackson Merrill to 2nd.",
+        "playerID": "493329",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Paul Sewald replaces Logan Allen.",
+        "playerID": "630105",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Offensive Substitution: Pinch-hitter Jason Heyward replaces Brandon Lockridge.",
+        "playerID": "518792",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Elias D\u00edaz flies out to center fielder Daniel Schneemann.",
+        "playerID": "553869",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jake Cronenworth remains in the game as the second baseman.",
+        "playerID": "666134",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Walk",
+        "description": "Bo Naylor walks.",
+        "playerID": "666310",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Gabriel Arias strikes out swinging.",
+        "playerID": "672356",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Walk",
+        "description": "Offensive Substitution: Pinch-hitter Jhonkensy Noel replaces Daniel Schneemann.",
+        "playerID": "678877",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Pitching Change: Jason Adam replaces Yuki Matsui.",
+        "playerID": "677587",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Steven Kwan strikes out swinging.",
+        "playerID": "680757",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Walk",
+        "description": "Defensive switch from right field to center field for Nolan Jones.",
+        "playerID": "665487",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Fernando Tatis Jr. steals (4) 2nd base.",
+        "playerID": "650333",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Walk",
+        "description": "Manny Machado walks.",
+        "playerID": "592518",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Fielders Choice",
+        "description": "Manny Machado steals (4) 2nd base.",
+        "playerID": "593428",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jackson Merrill strikes out swinging. Manny Machado scores. Xander Bogaerts steals (3) 2nd base. Manny Machado scores. Throwing error by catcher Bo Naylor.",
+        "playerID": "701538",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Yuli Gurriel pops out to shortstop Brayan Rocchio.",
+        "playerID": "493329",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jos\u00e9 Ram\u00edrez strikes out swinging.",
+        "playerID": "608070",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Kyle Manzardo grounds out to first baseman Luis Arraez.",
+        "playerID": "700932",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Carlos Santana grounds out, second baseman Jake Cronenworth to first baseman Luis Arraez.",
+        "playerID": "467793",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Single",
+        "description": "Defensive Substitution: Johnathan Rodriguez replaces left fielder Steven Kwan, batting 1st, playing left field.",
+        "playerID": "630105",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Jason Heyward singles on a ground ball to third baseman Jos\u00e9 Ram\u00edrez. Jake Cronenworth to 2nd.",
+        "playerID": "518792",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Elias D\u00edaz pops out to third baseman Jos\u00e9 Ram\u00edrez on the infield fly rule. Jason Heyward to 2nd. Fielding error by third baseman Jos\u00e9 Ram\u00edrez.",
+        "playerID": "553869",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Fernando Tatis Jr. grounds out, pitcher Joey Cantillo to first baseman Carlos Santana. Jake Cronenworth scores. Jason Heyward to 3rd.",
+        "playerID": "665487",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luis Arraez grounds out, pitcher Joey Cantillo to first baseman Carlos Santana.",
+        "playerID": "650333",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Omar Cruz replaces Jason Adam.",
+        "playerID": "666134",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Bo Naylor flies out to right fielder Fernando Tatis Jr.",
+        "playerID": "666310",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Gabriel Arias grounds out, shortstop Xander Bogaerts to first baseman Luis Arraez.",
+        "playerID": "672356",
+        "inning": "Top 9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_MIN@CHW",
+    "allPlayByPlay": [
+      {
+        "result": "Walk",
+        "description": "Matt Wallner walks.",
+        "playerID": "670242",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Carlos Correa strikes out swinging.",
+        "playerID": "621043",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Flyout",
+        "description": "Byron Buxton flies out to right fielder Austin Slater.",
+        "playerID": "621439",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Trevor Larnach singles on a fly ball to right fielder Austin Slater. Matt Wallner to 3rd.",
+        "playerID": "663616",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ryan Jeffers called out on strikes.",
+        "playerID": "680777",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Walk",
+        "description": "Nick Maton walks.",
+        "playerID": "665155",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout Double Play",
+        "description": "Luis Robert Jr. strikes out swinging and Nick Maton caught stealing 2nd, catcher Ryan Jeffers to second baseman Willi Castro to catcher Ryan Jeffers.",
+        "playerID": "673357",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Andrew Vaughn strikes out swinging.",
+        "playerID": "683734",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ty France grounds out softly, pitcher Shane Smith to first baseman Andrew Vaughn.",
+        "playerID": "664034",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Willi Castro grounds out, shortstop Brooks Baldwin to first baseman Andrew Vaughn.",
+        "playerID": "650489",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Edouard Julien grounds out softly, third baseman Miguel Vargas to first baseman Andrew Vaughn.",
+        "playerID": "666397",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Single",
+        "description": "Andrew Benintendi singles on a line drive to right fielder Matt Wallner.",
+        "playerID": "643217",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Flyout",
+        "description": "Miguel Vargas flies out to shortstop Carlos Correa.",
+        "playerID": "678246",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Lenyn Sosa singles on a ground ball to center fielder Byron Buxton. Andrew Benintendi to 3rd.",
+        "playerID": "672820",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Brooks Baldwin singles on a sharp line drive to center fielder Byron Buxton. Andrew Benintendi scores. Lenyn Sosa to 2nd.",
+        "playerID": "681460",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Austin Slater strikes out on a foul tip.",
+        "playerID": "596103",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Korey Lee pops out to second baseman Willi Castro.",
+        "playerID": "686676",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Jose Miranda strikes out swinging.",
+        "playerID": "669304",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Matt Wallner walks.",
+        "playerID": "670242",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Carlos Correa grounds into a double play, first baseman Andrew Vaughn to shortstop Brooks Baldwin to first baseman Andrew Vaughn. Matt Wallner out at 2nd. Carlos Correa out at 1st.",
+        "playerID": "621043",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Nick Maton flies out sharply to right fielder Matt Wallner.",
+        "playerID": "665155",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Luis Robert Jr. flies out sharply to center fielder Byron Buxton.",
+        "playerID": "673357",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Andrew Vaughn strikes out swinging.",
+        "playerID": "683734",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Byron Buxton flies out sharply to left fielder Andrew Benintendi.",
+        "playerID": "621439",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Trevor Larnach grounds out sharply, second baseman Lenyn Sosa to first baseman Andrew Vaughn.",
+        "playerID": "663616",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Groundout",
+        "description": "Ryan Jeffers grounds out sharply, shortstop Brooks Baldwin to first baseman Andrew Vaughn.",
+        "playerID": "680777",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Single",
+        "description": "Andrew Benintendi singles on a soft ground ball to pitcher Simeon Woods Richardson, deflected by third baseman Jose Miranda.",
+        "playerID": "643217",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Miguel Vargas strikes out on a foul tip.",
+        "playerID": "678246",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Double",
+        "description": "Lenyn Sosa doubles (1) on a line drive to left fielder Trevor Larnach. Andrew Benintendi to 3rd.",
+        "playerID": "672820",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Sac Fly",
+        "description": "Brooks Baldwin out on a sacrifice fly to right fielder Matt Wallner. Andrew Benintendi scores. Lenyn Sosa to 3rd.",
+        "playerID": "681460",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Lineout",
+        "description": "Austin Slater lines out sharply to center fielder Byron Buxton.",
+        "playerID": "596103",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Ty France singles on a line drive to left fielder Andrew Benintendi.",
+        "playerID": "664034",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Willi Castro flies out to left fielder Andrew Benintendi.",
+        "playerID": "650489",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Edouard Julien grounds out, second baseman Lenyn Sosa to pitcher Shane Smith. Ty France to 2nd.",
+        "playerID": "666397",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jose Miranda grounds out sharply, third baseman Miguel Vargas to first baseman Andrew Vaughn.",
+        "playerID": "669304",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Louis Varland replaces Simeon Woods Richardson.",
+        "playerID": "686676",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Home Run",
+        "description": "Nick Maton homers (2) on a fly ball to right field.",
+        "playerID": "665155",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Luis Robert Jr. flies out to right fielder Matt Wallner.",
+        "playerID": "673357",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Andrew Vaughn strikes out swinging.",
+        "playerID": "683734",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Matt Wallner flies out to right fielder Austin Slater.",
+        "playerID": "670242",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Carlos Correa grounds out, shortstop Brooks Baldwin to first baseman Andrew Vaughn.",
+        "playerID": "621043",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Byron Buxton walks.",
+        "playerID": "621439",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Trevor Larnach walks. Byron Buxton to 2nd.",
+        "playerID": "663616",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Pitching Change: Penn Murfee replaces Shane Smith.",
+        "playerID": "680777",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Ty France singles on a ground ball to center fielder Luis Robert Jr. Trevor Larnach scores. Ryan Jeffers to 2nd.",
+        "playerID": "664034",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Willi Castro hit by pitch. Ryan Jeffers to 3rd. Ty France to 2nd.",
+        "playerID": "650489",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Edouard Julien singles on a line drive to left fielder Andrew Benintendi. Ryan Jeffers scores. Ty France to 3rd. Willi Castro to 2nd.",
+        "playerID": "666397",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Jose Miranda singles on a soft fly ball to right fielder Austin Slater. Ty France scores. Willi Castro scores. Edouard Julien to 3rd.",
+        "playerID": "669304",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Caught Stealing Home",
+        "description": "Pitching Change: Fraser Ellard replaces Penn Murfee.",
+        "playerID": "670242",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Cole Sands replaces Louis Varland.",
+        "playerID": "643217",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Miguel Vargas flies out sharply to left fielder Trevor Larnach.",
+        "playerID": "678246",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Single",
+        "description": "Lenyn Sosa singles on a line drive to left fielder Trevor Larnach.",
+        "playerID": "672820",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Brooks Baldwin pops out to shortstop Carlos Correa.",
+        "playerID": "681460",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Walk",
+        "description": "Matt Wallner walks.",
+        "playerID": "670242",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Carlos Correa flies out to center fielder Luis Robert Jr.",
+        "playerID": "621043",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Byron Buxton pops out to first baseman Andrew Vaughn in foul territory.",
+        "playerID": "621439",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Trevor Larnach called out on strikes.",
+        "playerID": "663616",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Defensive Substitution: Harrison Bader replaces left fielder Trevor Larnach, batting 4th, playing left field.",
+        "playerID": "642136",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Offensive Substitution: Pinch-hitter Travis Jankowski replaces Korey Lee.",
+        "playerID": "608671",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nick Maton strikes out on a foul tip.",
+        "playerID": "665155",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Single",
+        "description": "Matt Thaiss remains in the game as the catcher.",
+        "playerID": "680777",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Walk",
+        "description": "Ty France walks. Ryan Jeffers to 2nd.",
+        "playerID": "664034",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Willi Castro pops out softly to shortstop Brooks Baldwin.",
+        "playerID": "650489",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Brandon Eisert replaces Bryse Wilson.",
+        "playerID": "681508",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jose Miranda grounds out sharply, shortstop Brooks Baldwin to first baseman Andrew Vaughn.",
+        "playerID": "669304",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Mickey Gasper remains in the game as the designated hitter.",
+        "playerID": "673357",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Andrew Vaughn singles on a line drive to left fielder Harrison Bader.",
+        "playerID": "683734",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Andrew Benintendi singles on a soft ground ball to third baseman Jose Miranda. Andrew Vaughn to 2nd.",
+        "playerID": "643217",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Lineout",
+        "description": "Miguel Vargas lines out to shortstop Carlos Correa.",
+        "playerID": "678246",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Lenyn Sosa strikes out swinging.",
+        "playerID": "672820",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Double",
+        "description": "Matt Wallner doubles (2) on a fly ball to left fielder Andrew Benintendi.",
+        "playerID": "670242",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Jordan Leasure replaces Brandon Eisert.",
+        "playerID": "621043",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Single",
+        "description": "Byron Buxton singles on a ground ball to shortstop Brooks Baldwin.",
+        "playerID": "621439",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Home Run",
+        "description": "Harrison Bader homers (2) on a fly ball to left field. DaShawn Keirsey Jr. scores. Byron Buxton scores.",
+        "playerID": "664056",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Flyout",
+        "description": "Ryan Jeffers flies out to center fielder Luis Robert Jr.",
+        "playerID": "680777",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ty France strikes out swinging.",
+        "playerID": "664034",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Lineout",
+        "description": "DaShawn Keirsey Jr. remains in the game as the right fielder.",
+        "playerID": "681460",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Groundout",
+        "description": "Matt Thaiss grounds out softly to first baseman Ty France.",
+        "playerID": "642136",
+        "inning": "Bottom  9"
+      },
+      {
+        "result": "Lineout",
+        "description": "Offensive Substitution: Pinch-hitter Michael A. Taylor replaces Travis Jankowski.",
+        "playerID": "572191",
+        "inning": "Bottom  9"
+      }
+    ]
+  },
+  {
+    "gameID": "20250401_WAS@TOR",
+    "allPlayByPlay": [
+      {
+        "result": "Strikeout",
+        "description": "CJ Abrams called out on strikes.",
+        "playerID": "682928",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "James Wood strikes out swinging.",
+        "playerID": "695578",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Keibert Ruiz grounds out, second baseman Andr\u00e9s Gim\u00e9nez to first baseman Vladimir Guerrero Jr.",
+        "playerID": "660688",
+        "inning": "Top 1"
+      },
+      {
+        "result": "Single",
+        "description": "Bo Bichette singles on a sharp line drive to left fielder James Wood.",
+        "playerID": "666182",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Vladimir Guerrero Jr. grounds into a double play, pitcher Trevor Williams to second baseman Luis Garc\u00eda Jr. to first baseman Nathaniel Lowe. Bo Bichette out at 2nd. Vladimir Guerrero Jr. out at 1st.",
+        "playerID": "665489",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Groundout",
+        "description": "Anthony Santander grounds out, shortstop CJ Abrams to first baseman Nathaniel Lowe.",
+        "playerID": "623993",
+        "inning": "Bottom  1"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nathaniel Lowe strikes out swinging.",
+        "playerID": "663993",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Josh Bell strikes out swinging.",
+        "playerID": "605137",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luis Garc\u00eda Jr. grounds out softly, pitcher Jos\u00e9 Berr\u00edos to first baseman Vladimir Guerrero Jr.",
+        "playerID": "671277",
+        "inning": "Top 2"
+      },
+      {
+        "result": "Single",
+        "description": "Andr\u00e9s Gim\u00e9nez singles on a ground ball to right fielder Alex Call.",
+        "playerID": "665926",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Alejandro Kirk singles on a ground ball to shortstop CJ Abrams. Andr\u00e9s Gim\u00e9nez to 3rd.",
+        "playerID": "672386",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "George Springer singles on a sharp line drive to left fielder James Wood. Andr\u00e9s Gim\u00e9nez scores. Alejandro Kirk to 2nd.",
+        "playerID": "543807",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Will Wagner singles on a bunt ground ball to third baseman Paul DeJong. Alejandro Kirk to 3rd. George Springer to 2nd.",
+        "playerID": "695238",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Forceout",
+        "description": "Ernie Clement grounds into a force out, shortstop CJ Abrams to second baseman Luis Garc\u00eda Jr. Alejandro Kirk scores. George Springer to 3rd. Will Wagner out at 2nd. Ernie Clement to 1st.",
+        "playerID": "676391",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Single",
+        "description": "Alan Roden singles on a ground ball to shortstop CJ Abrams. George Springer scores. Ernie Clement to 2nd.",
+        "playerID": "702176",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Bo Bichette strikes out swinging.",
+        "playerID": "666182",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Vladimir Guerrero Jr. strikes out swinging.",
+        "playerID": "665489",
+        "inning": "Bottom  2"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Paul DeJong pops out to first baseman Vladimir Guerrero Jr. in foul territory.",
+        "playerID": "657557",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Walk",
+        "description": "Alex Call walks.",
+        "playerID": "669743",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Jacob Young grounds into a double play, shortstop Bo Bichette to second baseman Andr\u00e9s Gim\u00e9nez to first baseman Vladimir Guerrero Jr. Alex Call out at 2nd. Jacob Young out at 1st.",
+        "playerID": "696285",
+        "inning": "Top 3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Anthony Santander flies out to left fielder James Wood.",
+        "playerID": "623993",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Flyout",
+        "description": "Andr\u00e9s Gim\u00e9nez flies out to left fielder James Wood.",
+        "playerID": "665926",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Single",
+        "description": "Alejandro Kirk singles on a sharp line drive to right fielder Alex Call.",
+        "playerID": "672386",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Strikeout",
+        "description": "George Springer strikes out swinging.",
+        "playerID": "543807",
+        "inning": "Bottom  3"
+      },
+      {
+        "result": "Double",
+        "description": "CJ Abrams doubles (1) on a line drive to right fielder Alan Roden.",
+        "playerID": "682928",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "James Wood strikes out swinging.",
+        "playerID": "695578",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Walk",
+        "description": "Keibert Ruiz walks.",
+        "playerID": "660688",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Double Play",
+        "description": "Nathaniel Lowe lines into a double play, second baseman Andr\u00e9s Gim\u00e9nez to shortstop Bo Bichette. CJ Abrams out at 2nd.",
+        "playerID": "663993",
+        "inning": "Top 4"
+      },
+      {
+        "result": "Single",
+        "description": "Will Wagner singles on a line drive to center fielder Jacob Young.",
+        "playerID": "695238",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Grounded Into DP",
+        "description": "Ernie Clement grounds into a double play, third baseman Paul DeJong to second baseman Luis Garc\u00eda Jr. to first baseman Nathaniel Lowe. Will Wagner out at 2nd. Ernie Clement out at 1st.",
+        "playerID": "676391",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Single",
+        "description": "Alan Roden singles on a sharp line drive to right fielder Alex Call.",
+        "playerID": "702176",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Flyout",
+        "description": "Bo Bichette flies out to left fielder James Wood.",
+        "playerID": "666182",
+        "inning": "Bottom  4"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Josh Bell strikes out swinging.",
+        "playerID": "605137",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Groundout",
+        "description": "Luis Garc\u00eda Jr. grounds out, second baseman Andr\u00e9s Gim\u00e9nez to first baseman Vladimir Guerrero Jr.",
+        "playerID": "671277",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Paul DeJong called out on strikes.",
+        "playerID": "657557",
+        "inning": "Top 5"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Vladimir Guerrero Jr. pops out to third baseman Paul DeJong in foul territory.",
+        "playerID": "665489",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "Anthony Santander singles on a ground ball to shortstop CJ Abrams.",
+        "playerID": "623993",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Forceout",
+        "description": "Andr\u00e9s Gim\u00e9nez grounds into a force out, pitcher Trevor Williams to second baseman Luis Garc\u00eda Jr. to shortstop CJ Abrams. Anthony Santander out at 2nd. Andr\u00e9s Gim\u00e9nez to 1st.",
+        "playerID": "665926",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Flyout",
+        "description": "Alejandro Kirk flies out to left fielder James Wood.",
+        "playerID": "672386",
+        "inning": "Bottom  5"
+      },
+      {
+        "result": "Single",
+        "description": "Alex Call singles on a ground ball to left fielder Anthony Santander.",
+        "playerID": "669743",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Forceout",
+        "description": "Jacob Young grounds into a force out, second baseman Andr\u00e9s Gim\u00e9nez to shortstop Bo Bichette. Alex Call out at 2nd. Jacob Young to 1st.",
+        "playerID": "696285",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "CJ Abrams singles on a sharp line drive to center fielder George Springer. Jacob Young to 3rd.",
+        "playerID": "682928",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "James Wood strikes out swinging. CJ Abrams steals (2) 2nd base.",
+        "playerID": "695578",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Single",
+        "description": "Keibert Ruiz singles on a fly ball to right fielder Alan Roden. Jacob Young scores. CJ Abrams scores.",
+        "playerID": "660688",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Nathaniel Lowe walks. Keibert Ruiz to 2nd.",
+        "playerID": "663993",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Yariel Rodr\u00edguez replaces Jos\u00e9 Berr\u00edos.",
+        "playerID": "605137",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Flyout",
+        "description": "Luis Garc\u00eda Jr. flies out to center fielder George Springer.",
+        "playerID": "671277",
+        "inning": "Top 6"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Jorge L\u00f3pez replaces Trevor Williams.",
+        "playerID": "543807",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Groundout",
+        "description": "Blue Jays challenged (play at 1st), call on the field was upheld: Will Wagner grounds out, shortstop CJ Abrams to first baseman Nathaniel Lowe. George Springer to 2nd.",
+        "playerID": "695238",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Ernie Clement strikes out swinging.",
+        "playerID": "676391",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Hit By Pitch",
+        "description": "Alan Roden hit by pitch.",
+        "playerID": "702176",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Bo Bichette strikes out swinging.",
+        "playerID": "666182",
+        "inning": "Bottom  6"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Paul DeJong strikes out swinging.",
+        "playerID": "657557",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Double",
+        "description": "Alex Call doubles (1) on a line drive to right fielder Alan Roden.",
+        "playerID": "669743",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Jacob Young grounds out, second baseman Andr\u00e9s Gim\u00e9nez to first baseman Vladimir Guerrero Jr. Alex Call to 3rd.",
+        "playerID": "696285",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Double",
+        "description": "Pitching Change: Mason Fluharty replaces Yariel Rodr\u00edguez.",
+        "playerID": "682928",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Groundout",
+        "description": "James Wood grounds out softly, third baseman Ernie Clement to first baseman Vladimir Guerrero Jr.",
+        "playerID": "695578",
+        "inning": "Top 7"
+      },
+      {
+        "result": "Walk",
+        "description": "Pitching Change: Jose A. Ferrer replaces Jorge L\u00f3pez.",
+        "playerID": "665489",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Anthony Santander strikes out swinging.",
+        "playerID": "623993",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Forceout",
+        "description": "Andr\u00e9s Gim\u00e9nez grounds into a force out, pitcher Jose A. Ferrer to second baseman Luis Garc\u00eda Jr. Vladimir Guerrero Jr. out at 2nd. Andr\u00e9s Gim\u00e9nez to 1st.",
+        "playerID": "665926",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Flyout",
+        "description": "Alejandro Kirk flies out to center fielder Jacob Young.",
+        "playerID": "672386",
+        "inning": "Bottom  7"
+      },
+      {
+        "result": "Groundout",
+        "description": "Keibert Ruiz grounds out, shortstop Bo Bichette to first baseman Vladimir Guerrero Jr.",
+        "playerID": "660688",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Nathaniel Lowe called out on strikes.",
+        "playerID": "663993",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Pitching Change: Chad Green replaces Mason Fluharty.",
+        "playerID": "605137",
+        "inning": "Top 8"
+      },
+      {
+        "result": "Single",
+        "description": "George Springer singles on a ground ball to right fielder Alex Call.",
+        "playerID": "543807",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Sac Bunt",
+        "description": "Will Wagner hits a sacrifice bunt. Fielding error by pitcher Jose A. Ferrer. George Springer to 2nd. Will Wagner to 1st.",
+        "playerID": "695238",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Sac Bunt",
+        "description": "Ernie Clement out on a sacrifice bunt, third baseman Paul DeJong to second baseman Luis Garc\u00eda Jr. George Springer to 3rd. Will Wagner to 2nd.",
+        "playerID": "676391",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Offensive Substitution: Pinch-hitter Davis Schneider replaces Alan Roden.",
+        "playerID": "676914",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Single",
+        "description": "Bo Bichette singles on a ground ball to right fielder Alex Call. George Springer scores. Will Wagner scores.",
+        "playerID": "666182",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Forceout",
+        "description": "Pitching Change: Lucas Sims replaces Jose A. Ferrer.",
+        "playerID": "665489",
+        "inning": "Bottom  8"
+      },
+      {
+        "result": "Lineout",
+        "description": "Defensive switch from center field to right field for George Springer.",
+        "playerID": "671277",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Strikeout",
+        "description": "Paul DeJong strikes out swinging.",
+        "playerID": "657557",
+        "inning": "Top 9"
+      },
+      {
+        "result": "Pop Out",
+        "description": "Alex Call pops out to first baseman Vladimir Guerrero Jr.",
+        "playerID": "669743",
+        "inning": "Top 9"
+      }
+    ]
+  }
+]
