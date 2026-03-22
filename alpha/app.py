@@ -6,6 +6,9 @@ Run with:  streamlit run app.py
 """
 
 import streamlit as st
+from dotenv import load_dotenv
+load_dotenv()
+
 from streamlit_sortables import sort_items
 from data_loader import load_data
 from engine import (
@@ -18,7 +21,7 @@ from recap import build_local_recap, generate_game_recap
 # ---------------------------------------------------------------------------
 # Page config
 # ---------------------------------------------------------------------------
-st.set_page_config(page_title="Lineups ⚾", page_icon="⚾", layout="wide")
+st.set_page_config(page_title="Lineups ⚾", page_icon="⚾", layout="wide", initial_sidebar_state="expanded")
 
 # ---------------------------------------------------------------------------
 # Cached data loading
@@ -53,8 +56,69 @@ def init_state():
             st.session_state[key] = False
     if 'sim_result' not in st.session_state:
         st.session_state['sim_result'] = None
+    if 'splash_dismissed' not in st.session_state:
+        st.session_state['splash_dismissed'] = False
 
 init_state()
+
+# ---------------------------------------------------------------------------
+# Splash screen (first visit only)
+# ---------------------------------------------------------------------------
+
+if not st.session_state['splash_dismissed']:
+    st.markdown("""
+    <style>
+    .splash-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 60vh;
+        text-align: center;
+        padding: 2rem;
+    }
+    .splash-title {
+        font-size: 4rem;
+        margin-bottom: 0.5rem;
+    }
+    .splash-line {
+        font-size: 1.3rem;
+        font-style: italic;
+        color: #aaa;
+        margin: 0.3rem 0;
+    }
+    .splash-bold {
+        font-size: 1.3rem;
+        font-style: italic;
+        color: #fff;
+        margin: 0.3rem 0;
+    }
+    .splash-spacer {
+        height: 2rem;
+    }
+    </style>
+    <div class="splash-container">
+        <div class="splash-title">⚾ Lineups</div>
+        <div class="splash-spacer"></div>
+        <div class="splash-line">Forget collecting stats in your fantasy league.</div>
+        <div class="splash-spacer"></div>
+        <div class="splash-line">No points. No multipliers. No season-long rosters. Just real baseball. </div>
+        <div class="splash-spacer"></div>
+        <div class="splash-bold">You're a manager. It's game day.</div>
+        <div class="splash-bold">Draft your roster. Fill out your lineup card. Play ball.</div>
+        <div class="splash-spacer"></div>
+        <div class="splash-line">Every at-bat is real. Every run is earned.</div>
+        <div class="splash-spacer"></div>
+    </div>
+    """, unsafe_allow_html=True)
+
+    col1, col2, col3 = st.columns([2, 1, 2])
+    with col2:
+        if st.button("Let's Go", type="primary", use_container_width=True):
+            st.session_state['splash_dismissed'] = True
+            st.rerun()
+
+    st.stop()
 
 # ---------------------------------------------------------------------------
 # Helper: build a team selection + lineup panel
@@ -301,7 +365,109 @@ def _validate_and_save_roster(label, roster, starter_picks, bench_picks, other_i
 # ---------------------------------------------------------------------------
 
 st.title("⚾ Lineups — Fantasy Baseball Reimagined")
-st.caption("Alpha version  •  Using cached play-by-play data  •  Draft your lineups and play ball!")
+st.caption("*You draft the talent. You set the lineup. Fantasy Teams, Real Baseball.*")
+
+# ---------------------------------------------------------------------------
+# Manager's Notebook (sidebar)
+# ---------------------------------------------------------------------------
+
+away_locked = st.session_state['away_locked']
+home_locked = st.session_state['home_locked']
+away_has_order = all(
+    _all_starters(st.session_state['away_roster'])[i].get('lineup_slot')
+    for i in range(9)
+)
+home_has_order = all(
+    _all_starters(st.session_state['home_roster'])[i].get('lineup_slot')
+    for i in range(9)
+)
+has_result = st.session_state.get('sim_result') is not None
+
+# Determine game phase (transitions on first team to complete each step)
+if has_result:
+    _phase = 'results'
+elif (away_locked and away_has_order) and (home_locked and home_has_order):
+    _phase = 'ready'
+elif away_locked or home_locked:
+    _phase = 'ordering'
+else:
+    _phase = 'drafting'
+
+# Track phase changes to auto-expand on new content
+if 'notebook_phase' not in st.session_state:
+    st.session_state['notebook_phase'] = _phase
+    st.session_state['notebook_expanded'] = True
+
+if st.session_state['notebook_phase'] != _phase:
+    st.session_state['notebook_phase'] = _phase
+    st.session_state['notebook_expanded'] = True
+
+NOTEBOOK_CONTENT = {
+    'drafting': (
+        "📋 Building Your Roster",
+        "You're building a 15-man roster — 9 starters and 6 on the bench. "
+        "Every player's results are drawn from their real MLB game today "
+        "If your guy went 3-for-4 with a double in "
+        "that game, that's exactly what he brings to your lineup.\n\n"
+        "Your bench matters. When a starter's real-life game runs out of "
+        "at-bats, a pinch hitter steps in. If your bench runs dry too, the "
+        "lineup is exhausted — and outs start piling up. Stock your bench "
+        "with players who see a lot of plate appearances."
+        "The order you draft your bench is the order they will be subbed into the game."
+    ),
+    'ordering': (
+        "📝 Setting Your Lineup Card",
+        "This is your lineup card. The simulation walks through your order "
+        "sequentially, just like a real game — top of the first, your #1 "
+        "hitter leads off, and the order cycles from there.\n\n"
+        "But here's the catch: each player only has as many at-bats as they "
+        "had in their real game. A starter who goes 2-for-3 can only come to "
+        "the plate 3 times before a pinch hitter replaces him. A guy who goes "
+        "1-for-5 gives you five trips to the plate.\n\n"
+        "Think about durability, not just talent. A leadoff hitter with only "
+        "2 plate appearances will burn through fast and force your bench into "
+        "action early."
+    ),
+    'ready': (
+        "⚾ Play Ball",
+        "Both managers have submitted their cards. The simulation plays through "
+        "a full 9-inning game, at-bat by at-bat. Every outcome — singles, "
+        "groundouts, double plays, sac flies — is pulled directly from real "
+        "MLB play-by-play data.\n\n"
+        "**How baserunning works:**\n\n"
+        "Runners advance realistically. On a **single**, a runner on second "
+        "scores and others move up one base. On a **double**, a runner on first "
+        "scores. **Triples and home runs** clear the bases.\n\n"
+        "**Walks** force advancement — bases loaded with a walk pushes a run "
+        "home. **Sac flies** score a runner from third if there is a flyout with fewer than "
+        "two outs. **Double plays** can kill a rally — with a runner on first "
+        "and fewer than two outs, a ground ball turns two.\n\n"
+        "**Errors** put the batter on base like a single, and runners advance "
+        "accordingly. At the end of each half-inning, any runners stranded on "
+        "second or third are tracked — those are the scoring chances your "
+        "lineup left on the table.\n\n"
+        "No stat collecting. No point multipliers. Runs score the way they score in "
+        "baseball: string together hits, move runners over, bring them home. "
+        "Or don't — and strand them at second and third like every manager's "
+        "nightmare."
+    ),
+    'results': (
+        "📰 Game Over",
+        "The game is in the books. The box score, play-by-play log, and recap "
+        "are all below.\n\n"
+        "Every run was manufactured from real at-bat outcomes. If a runner was "
+        "stranded at third, it's because the next batter in your order grounded "
+        "out in his real game too. The lineup you set and the players you chose "
+        "determined the result — not an algorithm."
+    ),
+}
+
+with st.sidebar:
+    st.header("📓 Manager's Notebook")
+    title, body = NOTEBOOK_CONTENT[_phase]
+    st.subheader(title)
+    st.markdown(body)
+
 st.markdown("---")
 
 col_away, col_spacer, col_home = st.columns([5, 1, 5])
@@ -318,15 +484,7 @@ with col_home:
 
 st.markdown("---")
 
-both_locked = st.session_state['away_locked'] and st.session_state['home_locked']
-away_has_order = all(
-    _all_starters(st.session_state['away_roster'])[i].get('lineup_slot')
-    for i in range(9)
-)
-home_has_order = all(
-    _all_starters(st.session_state['home_roster'])[i].get('lineup_slot')
-    for i in range(9)
-)
+both_locked = away_locked and home_locked
 ready = both_locked and away_has_order and home_has_order
 
 if not both_locked:
@@ -392,7 +550,7 @@ if result and result.get('game') is not None:
 
     # Recap
     st.subheader("Game Recap")
-    recap_text = build_local_recap(result)
+    recap_text = generate_game_recap(result)
     st.write(recap_text)
 
     # Play-by-play log
