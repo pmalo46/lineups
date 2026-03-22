@@ -113,7 +113,7 @@ if not st.session_state['splash_dismissed']:
         <div class="splash-spacer"></div>
         <div class="splash-line">Forget collecting stats in your fantasy league.</div>
         <div class="splash-spacer"></div>
-        <div class="splash-line">No points. No multipliers. No season-long rosters. Just real baseball. </div>
+        <div class="splash-line">No points. No multipliers. Just real baseball. </div>
         <div class="splash-spacer"></div>
         <div class="splash-bold">You're a manager. It's game day.</div>
         <div class="splash-bold">Draft your roster. Fill out your lineup card. Play ball.</div>
