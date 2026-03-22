@@ -4,3 +4,4 @@ pandas>=2.0.0
 numpy>=1.25.1
 openai>=1.0.0
 requests>=2.31.0
+streamlit-sortables==0.3.1
