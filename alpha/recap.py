@@ -113,6 +113,13 @@ def generate_game_recap(sim_result, model='gpt-4o-mini'):
 
     fallback_text = build_local_recap(sim_result)
     api_key = os.getenv('OPENAI_API_KEY')
+    # Fallback: try Streamlit Cloud secrets directly
+    if not api_key:
+        try:
+            import streamlit as st
+            api_key = st.secrets.get('OPENAI_API_KEY')
+        except Exception:
+            pass
     if not api_key:
         return fallback_text
 
