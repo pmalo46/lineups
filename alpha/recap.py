@@ -187,9 +187,9 @@ Requirements:
 
     try:
         client = OpenAI(api_key=api_key)
-        response = client.responses.create(
+        response = client.chat.completions.create(
             model=model,
-            input=[
+            messages=[
                 {
                     'role': 'system',
                     'content': 'You write concise, lively beat-writer baseball recaps from structured game logs.',
@@ -197,8 +197,9 @@ Requirements:
                 {'role': 'user', 'content': prompt},
             ],
         )
-        if getattr(response, 'output_text', None):
-            return response.output_text.strip()
+        content = response.choices[0].message.content
+        if content:
+            return content.strip()
         return fallback_text
     except Exception:
         return fallback_text
