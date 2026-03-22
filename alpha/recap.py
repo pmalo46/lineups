@@ -122,6 +122,7 @@ def generate_game_recap(sim_result, model='gpt-4o-mini'):
             pass
     if not api_key:
         return fallback_text
+    api_key = api_key.strip().replace('\n', '').replace('\r', '')
 
     try:
         from openai import OpenAI
