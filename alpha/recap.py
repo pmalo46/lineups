@@ -201,5 +201,5 @@ Requirements:
         if content:
             return content.strip()
         return fallback_text
-    except Exception:
-        return fallback_text
+    except Exception as e:
+        return f"[Recap error: {type(e).__name__}: {e}]\n\n{fallback_text}"
