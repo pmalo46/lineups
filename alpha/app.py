@@ -5,9 +5,20 @@ Lineups — Fantasy Baseball Reimagined (Streamlit Beta)
 Run with:  streamlit run app.py
 """
 
+import os
 import streamlit as st
-from dotenv import load_dotenv
-load_dotenv()
+
+# Load .env locally if available; on Streamlit Cloud, secrets are injected automatically
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
+# Make Streamlit Cloud secrets available as env vars
+if hasattr(st, 'secrets'):
+    for key, val in st.secrets.items():
+        os.environ.setdefault(key, val)
 
 from streamlit_sortables import sort_items
 from data_loader import load_data
