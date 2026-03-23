@@ -480,55 +480,15 @@ with st.sidebar:
     st.subheader(title)
     st.markdown(body)
 
-# Mobile: inline notebook (hidden on desktop via CSS)
-title, body = NOTEBOOK_CONTENT[_phase]
-st.markdown("""
-<style>
-    .mobile-notebook { display: none; }
-    @media (max-width: 768px) {
-        .mobile-notebook { display: block; }
-        section[data-testid="stSidebar"] { display: none; }
-    }
-</style>
-""", unsafe_allow_html=True)
-
-with st.container():
-    st.markdown('<div class="mobile-notebook">', unsafe_allow_html=True)
-    with st.expander(f"📓 {title}", expanded=st.session_state.get('notebook_expanded', False)):
-        st.markdown(body)
-    st.markdown('</div>', unsafe_allow_html=True)
-
 st.markdown("---")
 
-# Responsive layout: side-by-side columns on desktop, tabs on mobile
-st.markdown("""
-<style>
-    .desktop-teams { display: block; }
-    .mobile-teams { display: none; }
-    @media (max-width: 768px) {
-        .desktop-teams { display: none; }
-        .mobile-teams { display: block; }
-    }
-</style>
-""", unsafe_allow_html=True)
-
-# Desktop: side-by-side columns
-st.markdown('<div class="desktop-teams">', unsafe_allow_html=True)
 col_away, col_spacer, col_home = st.columns([5, 1, 5])
+
 with col_away:
     render_team_panel("Away", "away_roster", "away_locked", "home_roster")
+
 with col_home:
     render_team_panel("Home", "home_roster", "home_locked", "away_roster")
-st.markdown('</div>', unsafe_allow_html=True)
-
-# Mobile: tabbed layout
-st.markdown('<div class="mobile-teams">', unsafe_allow_html=True)
-tab_away, tab_home = st.tabs(["🔵 Away Team", "🔴 Home Team"])
-with tab_away:
-    render_team_panel("Away_m", "away_roster", "away_locked", "home_roster")
-with tab_home:
-    render_team_panel("Home_m", "home_roster", "home_locked", "away_roster")
-st.markdown('</div>', unsafe_allow_html=True)
 
 # ---------------------------------------------------------------------------
 # Simulation
